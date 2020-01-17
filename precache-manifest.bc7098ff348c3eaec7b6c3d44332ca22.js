@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5f345faed2c727753b3b3ce007485d3e",
+    "revision": "0a523e549f28d00be9941e202e7cce17",
     "url": "/quiz-react-app/index.html"
   },
   {
-    "revision": "ac982368cf4e1b2aec3b",
+    "revision": "6ec5b5c7cefed6a7d487",
     "url": "/quiz-react-app/static/css/2.b0bb7f2c.chunk.css"
   },
   {
-    "revision": "b7c83a474cb7ebd84386",
+    "revision": "b031eabb0eb99ca30900",
     "url": "/quiz-react-app/static/css/main.49255805.chunk.css"
   },
   {
-    "revision": "ac982368cf4e1b2aec3b",
-    "url": "/quiz-react-app/static/js/2.89a4c89f.chunk.js"
+    "revision": "6ec5b5c7cefed6a7d487",
+    "url": "/quiz-react-app/static/js/2.c98b35e9.chunk.js"
   },
   {
-    "revision": "b7c83a474cb7ebd84386",
-    "url": "/quiz-react-app/static/js/main.2a983462.chunk.js"
+    "revision": "b031eabb0eb99ca30900",
+    "url": "/quiz-react-app/static/js/main.16351b09.chunk.js"
   },
   {
     "revision": "95c563d9c6465841907a",
