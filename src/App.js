@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Route } from 'react-router-dom'
+import { BrowserRouter as Router, Route, Link } from 'react-router-dom'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import quiz from './quiz.png'
@@ -24,8 +24,8 @@ function App() {
                     <div class="col-sm">
                     </div>
                     <div class="col-md">
-                      <a href="/flags" class="btn btn-light btn-lg btn-block" role="button">Match flags with countries</a>
-                      <a href="/about" class="btn btn-light btn-lg btn-block" role="button">About</a>
+                      <Link to="/flags" className="btn btn-light btn-lg btn-block" role="button">Match flags with countries</Link>
+                      <Link to="/about" className="btn btn-light btn-lg btn-block" role="button">About</Link>
                     </div>
                     <div class="col-sm">
                     </div>
@@ -35,8 +35,8 @@ function App() {
             )
           } />         
 
-          <Route path="/flags" component={Flags} />
-          <Route path="/about" component={About} />
+          <Route exact path={`/flags`} component={Flags} />
+          <Route exact path={`/about`} component={About} />
 
         </header>
       </div>
