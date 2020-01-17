@@ -8,7 +8,7 @@ import About from './components/pages/About';
 
 function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <div className="App">
         <header className="App-header">
 

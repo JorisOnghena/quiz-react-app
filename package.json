@@ -2,7 +2,7 @@
   "name": "quiz-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shiveringsquirrel.github.io/quiz-react-app",
+  "homepage": "https://jorisonghena.github.io/quiz-react-app",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "gh-pages": "^2.1.1",
