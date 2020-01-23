@@ -1,0 +1,2051 @@
+{
+    "countries": [
+        {
+            "name": "Afghanistan",
+            "iso2": "AF",
+            "countrycode": "004",
+            "image": "/flag_images/af.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Åland Islands",
+            "iso2": "AX",
+            "countrycode": "248",
+            "image": "/flag_images/ax.png",
+            "maps": [
+                "europe_mill"
+            ]
+        },
+        {
+            "name": "Albania",
+            "iso2": "AL",
+            "countrycode": "008",
+            "image": "/flag_images/al.png",
+            "maps": [
+                "world_mill",
+                "europe_mill"
+            ]
+        },
+        {
+            "name": "Algeria",
+            "iso2": "DZ",
+            "countrycode": "012",
+            "image": "/flag_images/dz.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Andorra",
+            "iso2": "AD",
+            "countrycode": "020",
+            "image": "/flag_images/ad.png",
+            "maps": [
+                "europe_mill"
+            ]
+        },
+        {
+            "name": "Angola",
+            "iso2": "AO",
+            "countrycode": "024",
+            "image": "/flag_images/ao.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Antigua and Barbuda",
+            "iso2": "AG",
+            "countrycode": "028",
+            "image": "/flag_images/ag.png",
+            "maps": []
+        },
+        {
+            "name": "Argentina",
+            "iso2": "AR",
+            "countrycode": "032",
+            "image": "/flag_images/ar.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Armenia",
+            "iso2": "AM",
+            "countrycode": "051",
+            "image": "/flag_images/am.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Australia",
+            "iso2": "AU",
+            "countrycode": "036",
+            "image": "/flag_images/au.png",
+            "maps": [
+                "world_mill",
+                "oceania_mill"
+            ]
+        },
+        {
+            "name": "Austria",
+            "iso2": "AT",
+            "countrycode": "040",
+            "image": "/flag_images/at.png",
+            "maps": [
+                "world_mill",
+                "europe_mill"
+            ]
+        },
+        {
+            "name": "Azerbaijan",
+            "iso2": "AZ",
+            "countrycode": "031",
+            "image": "/flag_images/az.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Bahamas",
+            "iso2": "BS",
+            "countrycode": "044",
+            "image": "/flag_images/bs.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Bahrain",
+            "iso2": "BH",
+            "countrycode": "048",
+            "image": "/flag_images/bh.png",
+            "maps": []
+        },
+        {
+            "name": "Bangladesh",
+            "iso2": "BD",
+            "countrycode": "050",
+            "image": "/flag_images/bd.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Barbados",
+            "iso2": "BB",
+            "countrycode": "052",
+            "image": "/flag_images/bb.png",
+            "maps": []
+        },
+        {
+            "name": "Belarus",
+            "iso2": "BY",
+            "countrycode": "112",
+            "image": "/flag_images/by.png",
+            "maps": [
+                "world_mill",
+                "europe_mill"
+            ]
+        },
+        {
+            "name": "Belgium",
+            "iso2": "BE",
+            "countrycode": "056",
+            "image": "/flag_images/be.png",
+            "maps": [
+                "world_mill",
+                "europe_mill"
+            ]
+        },
+        {
+            "name": "Belize",
+            "iso2": "BZ",
+            "countrycode": "084",
+            "image": "/flag_images/bz.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Benin",
+            "iso2": "BJ",
+            "countrycode": "204",
+            "image": "/flag_images/bj.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Bhutan",
+            "iso2": "BT",
+            "countrycode": "064",
+            "image": "/flag_images/bt.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Bolivia (Plurinational State of)",
+            "iso2": "BO",
+            "countrycode": "068",
+            "image": "/flag_images/bo.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Bosnia and Herzegovina",
+            "iso2": "BA",
+            "countrycode": "070",
+            "image": "/flag_images/ba.png",
+            "maps": [
+                "world_mill",
+                "europe_mill"
+            ]
+        },
+        {
+            "name": "Botswana",
+            "iso2": "BW",
+            "countrycode": "072",
+            "image": "/flag_images/bw.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Brazil",
+            "iso2": "BR",
+            "countrycode": "076",
+            "image": "/flag_images/br.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "British Indian Ocean Territory",
+            "iso2": "IO",
+            "countrycode": "086",
+            "image": "/flag_images/io.png",
+            "maps": []
+        },
+        {
+            "name": "Brunei Darussalam",
+            "iso2": "BN",
+            "countrycode": "096",
+            "image": "/flag_images/bn.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Bulgaria",
+            "iso2": "BG",
+            "countrycode": "100",
+            "image": "/flag_images/bg.png",
+            "maps": [
+                "world_mill",
+                "europe_mill"
+            ]
+        },
+        {
+            "name": "Burkina Faso",
+            "iso2": "BF",
+            "countrycode": "854",
+            "image": "/flag_images/bf.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Burundi",
+            "iso2": "BI",
+            "countrycode": "108",
+            "image": "/flag_images/bi.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Cabo Verde",
+            "iso2": "CV",
+            "countrycode": "132",
+            "image": "/flag_images/cv.png",
+            "maps": []
+        },
+        {
+            "name": "Cambodia",
+            "iso2": "KH",
+            "countrycode": "116",
+            "image": "/flag_images/kh.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Cameroon",
+            "iso2": "CM",
+            "countrycode": "120",
+            "image": "/flag_images/cm.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Canada",
+            "iso2": "CA",
+            "countrycode": "124",
+            "image": "/flag_images/ca.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Cayman Islands",
+            "iso2": "KY",
+            "countrycode": "136",
+            "image": "/flag_images/ky.png",
+            "maps": []
+        },
+        {
+            "name": "Central African Republic",
+            "iso2": "CF",
+            "countrycode": "140",
+            "image": "/flag_images/cf.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Chad",
+            "iso2": "TD",
+            "countrycode": "148",
+            "image": "/flag_images/td.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Chile",
+            "iso2": "CL",
+            "countrycode": "152",
+            "image": "/flag_images/cl.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "China",
+            "iso2": "CN",
+            "countrycode": "156",
+            "image": "/flag_images/cn.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Christmas Island",
+            "iso2": "CX",
+            "countrycode": "162",
+            "image": "/flag_images/cx.png",
+            "maps": []
+        },
+        {
+            "name": "Colombia",
+            "iso2": "CO",
+            "countrycode": "170",
+            "image": "/flag_images/co.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Comoros",
+            "iso2": "KM",
+            "countrycode": "174",
+            "image": "/flag_images/km.png",
+            "maps": []
+        },
+        {
+            "name": "Congo",
+            "iso2": "CG",
+            "countrycode": "178",
+            "image": "/flag_images/cg.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Congo, Democratic Republic of the",
+            "iso2": "CD",
+            "countrycode": "180",
+            "image": "/flag_images/cd.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Cook Islands",
+            "iso2": "CK",
+            "countrycode": "184",
+            "image": "/flag_images/ck.png",
+            "maps": []
+        },
+        {
+            "name": "Costa Rica",
+            "iso2": "CR",
+            "countrycode": "188",
+            "image": "/flag_images/cr.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Côte d'Ivoire",
+            "iso2": "CI",
+            "countrycode": "384",
+            "image": "/flag_images/ci.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Croatia",
+            "iso2": "HR",
+            "countrycode": "191",
+            "image": "/flag_images/hr.png",
+            "maps": [
+                "world_mill",
+                "europe_mill"
+            ]
+        },
+        {
+            "name": "Cuba",
+            "iso2": "CU",
+            "countrycode": "192",
+            "image": "/flag_images/cu.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Curaçao",
+            "iso2": "CW",
+            "countrycode": "531",
+            "image": "/flag_images/cw.png",
+            "maps": []
+        },
+        {
+            "name": "Cyprus",
+            "iso2": "CY",
+            "countrycode": "196",
+            "image": "/flag_images/cy.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Czechia",
+            "iso2": "CZ",
+            "countrycode": "203",
+            "image": "/flag_images/cz.png",
+            "maps": [
+                "world_mill",
+                "europe_mill"
+            ]
+        },
+        {
+            "name": "Denmark",
+            "iso2": "DK",
+            "countrycode": "208",
+            "image": "/flag_images/dk.png",
+            "maps": [
+                "world_mill",
+                "europe_mill"
+            ]
+        },
+        {
+            "name": "Djibouti",
+            "iso2": "DJ",
+            "countrycode": "262",
+            "image": "/flag_images/dj.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Dominica",
+            "iso2": "DM",
+            "countrycode": "212",
+            "image": "/flag_images/dm.png",
+            "maps": []
+        },
+        {
+            "name": "Dominican Republic",
+            "iso2": "DO",
+            "countrycode": "214",
+            "image": "/flag_images/do.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Ecuador",
+            "iso2": "EC",
+            "countrycode": "218",
+            "image": "/flag_images/ec.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Egypt",
+            "iso2": "EG",
+            "countrycode": "818",
+            "image": "/flag_images/eg.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "El Salvador",
+            "iso2": "SV",
+            "countrycode": "222",
+            "image": "/flag_images/sv.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Equatorial Guinea",
+            "iso2": "GQ",
+            "countrycode": "226",
+            "image": "/flag_images/gq.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Eritrea",
+            "iso2": "ER",
+            "countrycode": "232",
+            "image": "/flag_images/er.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Estonia",
+            "iso2": "EE",
+            "countrycode": "233",
+            "image": "/flag_images/ee.png",
+            "maps": [
+                "world_mill",
+                "europe_mill"
+            ]
+        },
+        {
+            "name": "Eswatini / Swaziland",
+            "iso2": "SZ",
+            "countrycode": "748",
+            "image": "/flag_images/sz.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Ethiopia",
+            "iso2": "ET",
+            "countrycode": "231",
+            "image": "/flag_images/et.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Falkland Islands (Malvinas)",
+            "iso2": "FK",
+            "countrycode": "238",
+            "image": "/flag_images/fk.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Faroe Islands",
+            "iso2": "FO",
+            "countrycode": "234",
+            "image": "/flag_images/fo.png",
+            "maps": [
+                "europe_mill"
+            ]
+        },
+        {
+            "name": "Fiji",
+            "iso2": "FJ",
+            "countrycode": "242",
+            "image": "/flag_images/fj.png",
+            "maps": [
+                "world_mill",
+                "oceania_mill"
+            ]
+        },
+        {
+            "name": "Finland",
+            "iso2": "FI",
+            "countrycode": "246",
+            "image": "/flag_images/fi.png",
+            "maps": [
+                "world_mill",
+                "europe_mill"
+            ]
+        },
+        {
+            "name": "France",
+            "iso2": "FR",
+            "countrycode": "250",
+            "image": "/flag_images/fr.png",
+            "maps": [
+                "world_mill",
+                "europe_mill"
+            ]
+        },
+        {
+            "name": "French Polynesia",
+            "iso2": "PF",
+            "countrycode": "258",
+            "image": "/flag_images/pf.png",
+            "maps": [
+                "oceania_mill"
+            ]
+        },
+        {
+            "name": "French Southern Territories",
+            "iso2": "TF",
+            "countrycode": "260",
+            "image": "/flag_images/tf.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Gabon",
+            "iso2": "GA",
+            "countrycode": "266",
+            "image": "/flag_images/ga.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Gambia",
+            "iso2": "GM",
+            "countrycode": "270",
+            "image": "/flag_images/gm.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Georgia",
+            "iso2": "GE",
+            "countrycode": "268",
+            "image": "/flag_images/ge.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Germany",
+            "iso2": "DE",
+            "countrycode": "276",
+            "image": "/flag_images/de.png",
+            "maps": [
+                "world_mill",
+                "europe_mill"
+            ]
+        },
+        {
+            "name": "Ghana",
+            "iso2": "GH",
+            "countrycode": "288",
+            "image": "/flag_images/gh.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Gibraltar",
+            "iso2": "GI",
+            "countrycode": "292",
+            "image": "/flag_images/gi.png",
+            "maps": []
+        },
+        {
+            "name": "Greece",
+            "iso2": "GR",
+            "countrycode": "300",
+            "image": "/flag_images/gr.png",
+            "maps": [
+                "world_mill",
+                "europe_mill"
+            ]
+        },
+        {
+            "name": "Greenland",
+            "iso2": "GL",
+            "countrycode": "304",
+            "image": "/flag_images/gl.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Grenada",
+            "iso2": "GD",
+            "countrycode": "308",
+            "image": "/flag_images/gd.png",
+            "maps": []
+        },
+        {
+            "name": "Guam",
+            "iso2": "GU",
+            "countrycode": "316",
+            "image": "/flag_images/gu.png",
+            "maps": [
+                "oceania_mill"
+            ]
+        },
+        {
+            "name": "Guatemala",
+            "iso2": "GT",
+            "countrycode": "320",
+            "image": "/flag_images/gt.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Guernsey",
+            "iso2": "GG",
+            "countrycode": "831",
+            "image": "/flag_images/gg.png",
+            "maps": [
+                "europe_mill"
+            ]
+        },
+        {
+            "name": "Guinea",
+            "iso2": "GN",
+            "countrycode": "324",
+            "image": "/flag_images/gn.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Guinea-Bissau",
+            "iso2": "GW",
+            "countrycode": "624",
+            "image": "/flag_images/gw.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Guyana",
+            "iso2": "GY",
+            "countrycode": "328",
+            "image": "/flag_images/gy.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Haiti",
+            "iso2": "HT",
+            "countrycode": "332",
+            "image": "/flag_images/ht.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Holy See",
+            "iso2": "VA",
+            "countrycode": "336",
+            "image": "/flag_images/va.png",
+            "maps": []
+        },
+        {
+            "name": "Honduras",
+            "iso2": "HN",
+            "countrycode": "340",
+            "image": "/flag_images/hn.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Hong Kong",
+            "iso2": "HK",
+            "countrycode": "344",
+            "image": "/flag_images/hk.png",
+            "maps": []
+        },
+        {
+            "name": "Hungary",
+            "iso2": "HU",
+            "countrycode": "348",
+            "image": "/flag_images/hu.png",
+            "maps": [
+                "world_mill",
+                "europe_mill"
+            ]
+        },
+        {
+            "name": "Iceland",
+            "iso2": "IS",
+            "countrycode": "352",
+            "image": "/flag_images/is.png",
+            "maps": [
+                "world_mill",
+                "europe_mill"
+            ]
+        },
+        {
+            "name": "India",
+            "iso2": "IN",
+            "countrycode": "356",
+            "image": "/flag_images/in.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Indonesia",
+            "iso2": "ID",
+            "countrycode": "360",
+            "image": "/flag_images/id.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Iran (Islamic Republic of)",
+            "iso2": "IR",
+            "countrycode": "364",
+            "image": "/flag_images/ir.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Iraq",
+            "iso2": "IQ",
+            "countrycode": "368",
+            "image": "/flag_images/iq.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Ireland",
+            "iso2": "IE",
+            "countrycode": "372",
+            "image": "/flag_images/ie.png",
+            "maps": [
+                "world_mill",
+                "europe_mill"
+            ]
+        },
+        {
+            "name": "Isle of Man",
+            "iso2": "IM",
+            "countrycode": "833",
+            "image": "/flag_images/im.png",
+            "maps": [
+                "europe_mill"
+            ]
+        },
+        {
+            "name": "Israel",
+            "iso2": "IL",
+            "countrycode": "376",
+            "image": "/flag_images/il.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Italy",
+            "iso2": "IT",
+            "countrycode": "380",
+            "image": "/flag_images/it.png",
+            "maps": [
+                "world_mill",
+                "europe_mill"
+            ]
+        },
+        {
+            "name": "Jamaica",
+            "iso2": "JM",
+            "countrycode": "388",
+            "image": "/flag_images/jm.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Japan",
+            "iso2": "JP",
+            "countrycode": "392",
+            "image": "/flag_images/jp.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Jersey",
+            "iso2": "JE",
+            "countrycode": "832",
+            "image": "/flag_images/je.png",
+            "maps": [
+                "europe_mill"
+            ]
+        },
+        {
+            "name": "Jordan",
+            "iso2": "JO",
+            "countrycode": "400",
+            "image": "/flag_images/jo.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Kazakhstan",
+            "iso2": "KZ",
+            "countrycode": "398",
+            "image": "/flag_images/kz.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Kenya",
+            "iso2": "KE",
+            "countrycode": "404",
+            "image": "/flag_images/ke.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Kiribati",
+            "iso2": "KI",
+            "countrycode": "296",
+            "image": "/flag_images/ki.png",
+            "maps": [
+                "oceania_mill"
+            ]
+        },
+        {
+            "name": "Korea (Democratic People's Republic of)",
+            "iso2": "KP",
+            "countrycode": "408",
+            "image": "/flag_images/kp.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Korea, Republic of",
+            "iso2": "KR",
+            "countrycode": "410",
+            "image": "/flag_images/kr.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Kuwait",
+            "iso2": "KW",
+            "countrycode": "414",
+            "image": "/flag_images/kw.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Kyrgyzstan",
+            "iso2": "KG",
+            "countrycode": "417",
+            "image": "/flag_images/kg.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Lao People's Democratic Republic",
+            "iso2": "LA",
+            "countrycode": "418",
+            "image": "/flag_images/la.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Latvia",
+            "iso2": "LV",
+            "countrycode": "428",
+            "image": "/flag_images/lv.png",
+            "maps": [
+                "world_mill",
+                "europe_mill"
+            ]
+        },
+        {
+            "name": "Lebanon",
+            "iso2": "LB",
+            "countrycode": "422",
+            "image": "/flag_images/lb.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Lesotho",
+            "iso2": "LS",
+            "countrycode": "426",
+            "image": "/flag_images/ls.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Liberia",
+            "iso2": "LR",
+            "countrycode": "430",
+            "image": "/flag_images/lr.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Libya",
+            "iso2": "LY",
+            "countrycode": "434",
+            "image": "/flag_images/ly.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Liechtenstein",
+            "iso2": "LI",
+            "countrycode": "438",
+            "image": "/flag_images/li.png",
+            "maps": [
+                "europe_mill"
+            ]
+        },
+        {
+            "name": "Lithuania",
+            "iso2": "LT",
+            "countrycode": "440",
+            "image": "/flag_images/lt.png",
+            "maps": [
+                "world_mill",
+                "europe_mill"
+            ]
+        },
+        {
+            "name": "Luxembourg",
+            "iso2": "LU",
+            "countrycode": "442",
+            "image": "/flag_images/lu.png",
+            "maps": [
+                "world_mill",
+                "europe_mill"
+            ]
+        },
+        {
+            "name": "Macao",
+            "iso2": "MO",
+            "countrycode": "446",
+            "image": "/flag_images/mo.png",
+            "maps": []
+        },
+        {
+            "name": "Madagascar",
+            "iso2": "MG",
+            "countrycode": "450",
+            "image": "/flag_images/mg.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Malawi",
+            "iso2": "MW",
+            "countrycode": "454",
+            "image": "/flag_images/mw.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Malaysia",
+            "iso2": "MY",
+            "countrycode": "458",
+            "image": "/flag_images/my.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Maldives",
+            "iso2": "MV",
+            "countrycode": "462",
+            "image": "/flag_images/mv.png",
+            "maps": []
+        },
+        {
+            "name": "Mali",
+            "iso2": "ML",
+            "countrycode": "466",
+            "image": "/flag_images/ml.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Malta",
+            "iso2": "MT",
+            "countrycode": "470",
+            "image": "/flag_images/mt.png",
+            "maps": [
+                "europe_mill"
+            ]
+        },
+        {
+            "name": "Marshall Islands",
+            "iso2": "MH",
+            "countrycode": "584",
+            "image": "/flag_images/mh.png",
+            "maps": []
+        },
+        {
+            "name": "Martinique",
+            "iso2": "MQ",
+            "countrycode": "474",
+            "image": "/flag_images/mq.png",
+            "maps": []
+        },
+        {
+            "name": "Mauritania",
+            "iso2": "MR",
+            "countrycode": "478",
+            "image": "/flag_images/mr.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Mauritius",
+            "iso2": "MU",
+            "countrycode": "480",
+            "image": "/flag_images/mu.png",
+            "maps": []
+        },
+        {
+            "name": "Mexico",
+            "iso2": "MX",
+            "countrycode": "484",
+            "image": "/flag_images/mx.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Micronesia (Federated States of)",
+            "iso2": "FM",
+            "countrycode": "583",
+            "image": "/flag_images/fm.png",
+            "maps": [
+                "oceania_mill"
+            ]
+        },
+        {
+            "name": "Moldova, Republic of",
+            "iso2": "MD",
+            "countrycode": "498",
+            "image": "/flag_images/md.png",
+            "maps": [
+                "world_mill",
+                "europe_mill"
+            ]
+        },
+        {
+            "name": "Monaco",
+            "iso2": "MC",
+            "countrycode": "492",
+            "image": "/flag_images/mc.png",
+            "maps": []
+        },
+        {
+            "name": "Mongolia",
+            "iso2": "MN",
+            "countrycode": "496",
+            "image": "/flag_images/mn.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Montenegro",
+            "iso2": "ME",
+            "countrycode": "499",
+            "image": "/flag_images/me.png",
+            "maps": [
+                "world_mill",
+                "europe_mill"
+            ]
+        },
+        {
+            "name": "Montserrat",
+            "iso2": "MS",
+            "countrycode": "500",
+            "image": "/flag_images/ms.png",
+            "maps": []
+        },
+        {
+            "name": "Morocco",
+            "iso2": "MA",
+            "countrycode": "504",
+            "image": "/flag_images/ma.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Mozambique",
+            "iso2": "MZ",
+            "countrycode": "508",
+            "image": "/flag_images/mz.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Myanmar",
+            "iso2": "MM",
+            "countrycode": "104",
+            "image": "/flag_images/mm.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Namibia",
+            "iso2": "NA",
+            "countrycode": "516",
+            "image": "/flag_images/na.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Nauru",
+            "iso2": "NR",
+            "countrycode": "520",
+            "image": "/flag_images/nr.png",
+            "maps": []
+        },
+        {
+            "name": "Nepal",
+            "iso2": "NP",
+            "countrycode": "524",
+            "image": "/flag_images/np.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Netherlands",
+            "iso2": "NL",
+            "countrycode": "528",
+            "image": "/flag_images/nl.png",
+            "maps": [
+                "world_mill",
+                "europe_mill"
+            ]
+        },
+        {
+            "name": "New Caledonia",
+            "iso2": "NC",
+            "countrycode": "540",
+            "image": "/flag_images/nc.png",
+            "maps": [
+                "world_mill",
+                "oceania_mill"
+            ]
+        },
+        {
+            "name": "New Zealand",
+            "iso2": "NZ",
+            "countrycode": "554",
+            "image": "/flag_images/nz.png",
+            "maps": [
+                "world_mill",
+                "oceania_mill"
+            ]
+        },
+        {
+            "name": "Nicaragua",
+            "iso2": "NI",
+            "countrycode": "558",
+            "image": "/flag_images/ni.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Niger",
+            "iso2": "NE",
+            "countrycode": "562",
+            "image": "/flag_images/ne.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Nigeria",
+            "iso2": "NG",
+            "countrycode": "566",
+            "image": "/flag_images/ng.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Niue",
+            "iso2": "NU",
+            "countrycode": "570",
+            "image": "/flag_images/nu.png",
+            "maps": [
+                "oceania_mill"
+            ]
+        },
+        {
+            "name": "Norfolk Island",
+            "iso2": "NF",
+            "countrycode": "574",
+            "image": "/flag_images/nf.png",
+            "maps": []
+        },
+        {
+            "name": "North Macedonia",
+            "iso2": "MK",
+            "countrycode": "807",
+            "image": "/flag_images/mk.png",
+            "maps": [
+                "world_mill",
+                "europe_mill"
+            ]
+        },
+        {
+            "name": "Northern Mariana Islands",
+            "iso2": "MP",
+            "countrycode": "580",
+            "image": "/flag_images/mp.png",
+            "maps": []
+        },
+        {
+            "name": "Norway",
+            "iso2": "NO",
+            "countrycode": "578",
+            "image": "/flag_images/no.png",
+            "maps": [
+                "world_mill",
+                "europe_mill"
+            ]
+        },
+        {
+            "name": "Oman",
+            "iso2": "OM",
+            "countrycode": "512",
+            "image": "/flag_images/om.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Pakistan",
+            "iso2": "PK",
+            "countrycode": "586",
+            "image": "/flag_images/pk.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Palau",
+            "iso2": "PW",
+            "countrycode": "585",
+            "image": "/flag_images/pw.png",
+            "maps": [
+                "oceania_mill"
+            ]
+        },
+        {
+            "name": "Palestine, State of",
+            "iso2": "PS",
+            "countrycode": "275",
+            "image": "/flag_images/ps.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Panama",
+            "iso2": "PA",
+            "countrycode": "591",
+            "image": "/flag_images/pa.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Papua New Guinea",
+            "iso2": "PG",
+            "countrycode": "598",
+            "image": "/flag_images/pg.png",
+            "maps": [
+                "world_mill",
+                "oceania_mill"
+            ]
+        },
+        {
+            "name": "Paraguay",
+            "iso2": "PY",
+            "countrycode": "600",
+            "image": "/flag_images/py.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Peru",
+            "iso2": "PE",
+            "countrycode": "604",
+            "image": "/flag_images/pe.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Philippines",
+            "iso2": "PH",
+            "countrycode": "608",
+            "image": "/flag_images/ph.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Poland",
+            "iso2": "PL",
+            "countrycode": "616",
+            "image": "/flag_images/pl.png",
+            "maps": [
+                "world_mill",
+                "europe_mill"
+            ]
+        },
+        {
+            "name": "Portugal",
+            "iso2": "PT",
+            "countrycode": "620",
+            "image": "/flag_images/pt.png",
+            "maps": [
+                "world_mill",
+                "europe_mill"
+            ]
+        },
+        {
+            "name": "Puerto Rico",
+            "iso2": "PR",
+            "countrycode": "630",
+            "image": "/flag_images/pr.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Qatar",
+            "iso2": "QA",
+            "countrycode": "634",
+            "image": "/flag_images/qa.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Romania",
+            "iso2": "RO",
+            "countrycode": "642",
+            "image": "/flag_images/ro.png",
+            "maps": [
+                "world_mill",
+                "europe_mill"
+            ]
+        },
+        {
+            "name": "Russian Federation",
+            "iso2": "RU",
+            "countrycode": "643",
+            "image": "/flag_images/ru.png",
+            "maps": [
+                "world_mill",
+                "europe_mill"
+            ]
+        },
+        {
+            "name": "Rwanda",
+            "iso2": "RW",
+            "countrycode": "646",
+            "image": "/flag_images/rw.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Saint Kitts and Nevis",
+            "iso2": "KN",
+            "countrycode": "659",
+            "image": "/flag_images/kn.png",
+            "maps": []
+        },
+        {
+            "name": "Saint Lucia",
+            "iso2": "LC",
+            "countrycode": "662",
+            "image": "/flag_images/lc.png",
+            "maps": []
+        },
+        {
+            "name": "Saint Vincent and the Grenadines",
+            "iso2": "VC",
+            "countrycode": "670",
+            "image": "/flag_images/vc.png",
+            "maps": []
+        },
+        {
+            "name": "Samoa",
+            "iso2": "WS",
+            "countrycode": "882",
+            "image": "/flag_images/ws.png",
+            "maps": [
+                "oceania_mill"
+            ]
+        },
+        {
+            "name": "San Marino",
+            "iso2": "SM",
+            "countrycode": "674",
+            "image": "/flag_images/sm.png",
+            "maps": [
+                "europe_mill"
+            ]
+        },
+        {
+            "name": "Sao Tome and Principe",
+            "iso2": "ST",
+            "countrycode": "678",
+            "image": "/flag_images/st.png",
+            "maps": []
+        },
+        {
+            "name": "Saudi Arabia",
+            "iso2": "SA",
+            "countrycode": "682",
+            "image": "/flag_images/sa.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Senegal",
+            "iso2": "SN",
+            "countrycode": "686",
+            "image": "/flag_images/sn.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Serbia",
+            "iso2": "RS",
+            "countrycode": "688",
+            "image": "/flag_images/rs.png",
+            "maps": [
+                "world_mill",
+                "europe_mill"
+            ]
+        },
+        {
+            "name": "Seychelles",
+            "iso2": "SC",
+            "countrycode": "690",
+            "image": "/flag_images/sc.png",
+            "maps": []
+        },
+        {
+            "name": "Sierra Leone",
+            "iso2": "SL",
+            "countrycode": "694",
+            "image": "/flag_images/sl.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Singapore",
+            "iso2": "SG",
+            "countrycode": "702",
+            "image": "/flag_images/sg.png",
+            "maps": []
+        },
+        {
+            "name": "Sint Maarten (Dutch part)",
+            "iso2": "SX",
+            "countrycode": "534",
+            "image": "/flag_images/sx.png",
+            "maps": []
+        },
+        {
+            "name": "Slovakia",
+            "iso2": "SK",
+            "countrycode": "703",
+            "image": "/flag_images/sk.png",
+            "maps": [
+                "world_mill",
+                "europe_mill"
+            ]
+        },
+        {
+            "name": "Slovenia",
+            "iso2": "SI",
+            "countrycode": "705",
+            "image": "/flag_images/si.png",
+            "maps": [
+                "world_mill",
+                "europe_mill"
+            ]
+        },
+        {
+            "name": "Solomon Islands",
+            "iso2": "SB",
+            "countrycode": "090",
+            "image": "/flag_images/sb.png",
+            "maps": [
+                "world_mill",
+                "oceania_mill"
+            ]
+        },
+        {
+            "name": "Somalia",
+            "iso2": "SO",
+            "countrycode": "706",
+            "image": "/flag_images/so.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "South Africa",
+            "iso2": "ZA",
+            "countrycode": "710",
+            "image": "/flag_images/za.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "South Georgia and the South Sandwich Islands",
+            "iso2": "GS",
+            "countrycode": "239",
+            "image": "/flag_images/gs.png",
+            "maps": []
+        },
+        {
+            "name": "South Sudan",
+            "iso2": "SS",
+            "countrycode": "728",
+            "image": "/flag_images/ss.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Spain",
+            "iso2": "ES",
+            "countrycode": "724",
+            "image": "/flag_images/es.png",
+            "maps": [
+                "world_mill",
+                "europe_mill"
+            ]
+        },
+        {
+            "name": "Sri Lanka",
+            "iso2": "LK",
+            "countrycode": "144",
+            "image": "/flag_images/lk.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Sudan",
+            "iso2": "SD",
+            "countrycode": "729",
+            "image": "/flag_images/sd.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Suriname",
+            "iso2": "SR",
+            "countrycode": "740",
+            "image": "/flag_images/sr.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Sweden",
+            "iso2": "SE",
+            "countrycode": "752",
+            "image": "/flag_images/se.png",
+            "maps": [
+                "world_mill",
+                "europe_mill"
+            ]
+        },
+        {
+            "name": "Switzerland",
+            "iso2": "CH",
+            "countrycode": "756",
+            "image": "/flag_images/ch.png",
+            "maps": [
+                "world_mill",
+                "europe_mill"
+            ]
+        },
+        {
+            "name": "Syrian Arab Republic",
+            "iso2": "SY",
+            "countrycode": "760",
+            "image": "/flag_images/sy.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Taiwan, Province of China",
+            "iso2": "TW",
+            "countrycode": "158",
+            "image": "/flag_images/tw.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Tajikistan",
+            "iso2": "TJ",
+            "countrycode": "762",
+            "image": "/flag_images/tj.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Tanzania, United Republic of",
+            "iso2": "TZ",
+            "countrycode": "834",
+            "image": "/flag_images/tz.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Thailand",
+            "iso2": "TH",
+            "countrycode": "764",
+            "image": "/flag_images/th.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Timor-Leste",
+            "iso2": "TL",
+            "countrycode": "626",
+            "image": "/flag_images/tl.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Togo",
+            "iso2": "TG",
+            "countrycode": "768",
+            "image": "/flag_images/tg.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Tokelau",
+            "iso2": "TK",
+            "countrycode": "772",
+            "image": "/flag_images/tk.png",
+            "maps": []
+        },
+        {
+            "name": "Tonga",
+            "iso2": "TO",
+            "countrycode": "776",
+            "image": "/flag_images/to.png",
+            "maps": []
+        },
+        {
+            "name": "Trinidad and Tobago",
+            "iso2": "TT",
+            "countrycode": "780",
+            "image": "/flag_images/tt.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Tunisia",
+            "iso2": "TN",
+            "countrycode": "788",
+            "image": "/flag_images/tn.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Turkey",
+            "iso2": "TR",
+            "countrycode": "792",
+            "image": "/flag_images/tr.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Turkmenistan",
+            "iso2": "TM",
+            "countrycode": "795",
+            "image": "/flag_images/tm.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Turks and Caicos Islands",
+            "iso2": "TC",
+            "countrycode": "796",
+            "image": "/flag_images/tc.png",
+            "maps": []
+        },
+        {
+            "name": "Tuvalu",
+            "iso2": "TV",
+            "countrycode": "798",
+            "image": "/flag_images/tv.png",
+            "maps": []
+        },
+        {
+            "name": "Uganda",
+            "iso2": "UG",
+            "countrycode": "800",
+            "image": "/flag_images/ug.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Ukraine",
+            "iso2": "UA",
+            "countrycode": "804",
+            "image": "/flag_images/ua.png",
+            "maps": [
+                "world_mill",
+                "europe_mill"
+            ]
+        },
+        {
+            "name": "United Arab Emirates",
+            "iso2": "AE",
+            "countrycode": "784",
+            "image": "/flag_images/ae.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "United Kingdom of Great Britain and Northern Ireland",
+            "iso2": "GB",
+            "countrycode": "826",
+            "image": "/flag_images/gb.png",
+            "maps": [
+                "world_mill",
+                "europe_mill"
+            ]
+        },
+        {
+            "name": "United States of America",
+            "iso2": "US",
+            "countrycode": "840",
+            "image": "/flag_images/us.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Uruguay",
+            "iso2": "UY",
+            "countrycode": "858",
+            "image": "/flag_images/uy.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Uzbekistan",
+            "iso2": "UZ",
+            "countrycode": "860",
+            "image": "/flag_images/uz.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Vanuatu",
+            "iso2": "VU",
+            "countrycode": "548",
+            "image": "/flag_images/vu.png",
+            "maps": [
+                "world_mill",
+                "oceania_mill"
+            ]
+        },
+        {
+            "name": "Venezuela (Bolivarian Republic of)",
+            "iso2": "VE",
+            "countrycode": "862",
+            "image": "/flag_images/ve.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Viet Nam",
+            "iso2": "VN",
+            "countrycode": "704",
+            "image": "/flag_images/vn.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Virgin Islands (British)",
+            "iso2": "VG",
+            "countrycode": "092",
+            "image": "/flag_images/vg.png",
+            "maps": []
+        },
+        {
+            "name": "Virgin Islands (U.S.)",
+            "iso2": "VI",
+            "countrycode": "850",
+            "image": "/flag_images/vi.png",
+            "maps": []
+        },
+        {
+            "name": "Western Sahara",
+            "iso2": "EH",
+            "countrycode": "732",
+            "image": "/flag_images/eh.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Yemen",
+            "iso2": "YE",
+            "countrycode": "887",
+            "image": "/flag_images/ye.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Zambia",
+            "iso2": "ZM",
+            "countrycode": "894",
+            "image": "/flag_images/zm.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Zimbabwe",
+            "iso2": "ZW",
+            "countrycode": "716",
+            "image": "/flag_images/zw.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Somaliland",
+            "iso2": "XS",
+            "countrycode": "",
+            "image": "/flag_images/xs.png",
+            "maps": [
+                "world_mill"
+            ]
+        },
+        {
+            "name": "Kosovo",
+            "iso2": "XK",
+            "countrycode": "",
+            "image": "/flag_images/xk.png",
+            "maps": [
+                "world_mill",
+                "europe_mill"
+            ]
+        },
+        {
+            "name": "Northern Cyprus (Turkish Republic of)",
+            "iso2": "XC",
+            "countrycode": "",
+            "image": "/flag_images/xc.png",
+            "maps": [
+                "world_mill"
+            ]
+        }
+    ]
+}

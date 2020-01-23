@@ -24,7 +24,7 @@ function App() {
                     <div class="col-sm">
                     </div>
                     <div class="col-md">
-                      <Link to="/flags" className="btn btn-light btn-lg btn-block" role="button">Match flags with countries</Link>
+                      <Link to="/flags/world" className="btn btn-light btn-lg btn-block" role="button">Match flags with countries</Link>
                       <Link to="/about" className="btn btn-light btn-lg btn-block" role="button">About</Link>
                     </div>
                     <div class="col-sm">
@@ -35,7 +35,7 @@ function App() {
             )
           } />         
 
-          <Route exact path={`/flags`} component={Flags} />
+          <Route exact path={`/flags/:mapid`} component={Flags} />
           <Route exact path={`/about`} component={About} />
 
         </header>
