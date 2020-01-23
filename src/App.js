@@ -5,6 +5,7 @@ import './App.css';
 import quiz from './quiz.png'
 import Flags from './components/pages/Flags';
 import About from './components/pages/About';
+import Capitals from './components/pages/Capitals';
 
 function App() {
   return (
@@ -25,6 +26,7 @@ function App() {
                     </div>
                     <div class="col-md">
                       <Link to="/flags/world" className="btn btn-light btn-lg btn-block" role="button">Match flags with countries</Link>
+                      <Link to="/capitals" className="btn btn-light btn-lg btn-block" role="button">Match a country to it's capital</Link>
                       <Link to="/about" className="btn btn-light btn-lg btn-block" role="button">About</Link>
                     </div>
                     <div class="col-sm">
@@ -36,6 +38,7 @@ function App() {
           } />         
 
           <Route exact path={`/flags/:mapid`} component={Flags} />
+          <Route exact path={`/capitals`} component={Capitals} />
           <Route exact path={`/about`} component={About} />
 
         </header>
