@@ -1,5 +1,5 @@
 import React from 'react';
-import capitalData from '../json/capitaldata.json'
+import capitalData from '../json/mapdata.json'
 
 function Capitals() {
     return (
