@@ -3,1617 +3,1617 @@
 		"name": "Afghanistan",
 		"iso2": "AF",
 		"countrycode": "004",
-		"image": "/flag_images/af.png",
+		"image": "../../flag_images/af.png",
 		"maps": ["world_mill"],
 		"capital": "Kabul"
 	}, {
 		"name": "\u00C5land Islands",
 		"iso2": "AX",
 		"countrycode": "248",
-		"image": "/flag_images/ax.png",
+		"image": "../../flag_images/ax.png",
 		"maps": ["europe_mill"],
 		"capital": "Mariehamn"
 	}, {
 		"name": "Albania",
 		"iso2": "AL",
 		"countrycode": "008",
-		"image": "/flag_images/al.png",
+		"image": "../../flag_images/al.png",
 		"maps": ["world_mill", "europe_mill"],
 		"capital": "Tirana"
 	}, {
 		"name": "Algeria",
 		"iso2": "DZ",
 		"countrycode": "012",
-		"image": "/flag_images/dz.png",
+		"image": "../../flag_images/dz.png",
 		"maps": ["world_mill"],
 		"capital": "Algiers"
 	}, {
 		"name": "Andorra",
 		"iso2": "AD",
 		"countrycode": "020",
-		"image": "/flag_images/ad.png",
+		"image": "../../flag_images/ad.png",
 		"maps": ["europe_mill"],
 		"capital": "Andorra la Vella"
 	}, {
 		"name": "Angola",
 		"iso2": "AO",
 		"countrycode": "024",
-		"image": "/flag_images/ao.png",
+		"image": "../../flag_images/ao.png",
 		"maps": ["world_mill"],
 		"capital": "Luanda"
 	}, {
 		"name": "Antigua and Barbuda",
 		"iso2": "AG",
 		"countrycode": "028",
-		"image": "/flag_images/ag.png",
+		"image": "../../flag_images/ag.png",
 		"maps": [],
 		"capital": "St. John\u0027s"
 	}, {
 		"name": "Argentina",
 		"iso2": "AR",
 		"countrycode": "032",
-		"image": "/flag_images/ar.png",
+		"image": "../../flag_images/ar.png",
 		"maps": ["world_mill"],
 		"capital": "Buenos Aires"
 	}, {
 		"name": "Armenia",
 		"iso2": "AM",
 		"countrycode": "051",
-		"image": "/flag_images/am.png",
+		"image": "../../flag_images/am.png",
 		"maps": ["world_mill"],
 		"capital": "Yerevan"
 	}, {
 		"name": "Australia",
 		"iso2": "AU",
 		"countrycode": "036",
-		"image": "/flag_images/au.png",
+		"image": "../../flag_images/au.png",
 		"maps": ["world_mill", "oceania_mill"],
 		"capital": "Canberra"
 	}, {
 		"name": "Austria",
 		"iso2": "AT",
 		"countrycode": "040",
-		"image": "/flag_images/at.png",
+		"image": "../../flag_images/at.png",
 		"maps": ["world_mill", "europe_mill"],
 		"capital": "Vienna"
 	}, {
 		"name": "Azerbaijan",
 		"iso2": "AZ",
 		"countrycode": "031",
-		"image": "/flag_images/az.png",
+		"image": "../../flag_images/az.png",
 		"maps": ["world_mill"],
 		"capital": "Baku"
 	}, {
 		"name": "Bahamas",
 		"iso2": "BS",
 		"countrycode": "044",
-		"image": "/flag_images/bs.png",
+		"image": "../../flag_images/bs.png",
 		"maps": ["world_mill"],
 		"capital": "Nassau"
 	}, {
 		"name": "Bahrain",
 		"iso2": "BH",
 		"countrycode": "048",
-		"image": "/flag_images/bh.png",
+		"image": "../../flag_images/bh.png",
 		"maps": [],
 		"capital": "Manama"
 	}, {
 		"name": "Bangladesh",
 		"iso2": "BD",
 		"countrycode": "050",
-		"image": "/flag_images/bd.png",
+		"image": "../../flag_images/bd.png",
 		"maps": ["world_mill"],
 		"capital": "Dhaka"
 	}, {
 		"name": "Barbados",
 		"iso2": "BB",
 		"countrycode": "052",
-		"image": "/flag_images/bb.png",
+		"image": "../../flag_images/bb.png",
 		"maps": [],
 		"capital": "Bridgetown"
 	}, {
 		"name": "Belarus",
 		"iso2": "BY",
 		"countrycode": "112",
-		"image": "/flag_images/by.png",
+		"image": "../../flag_images/by.png",
 		"maps": ["world_mill", "europe_mill"],
 		"capital": "Minsk"
 	}, {
 		"name": "Belgium",
 		"iso2": "BE",
 		"countrycode": "056",
-		"image": "/flag_images/be.png",
+		"image": "../../flag_images/be.png",
 		"maps": ["world_mill", "europe_mill"],
 		"capital": "Brussels"
 	}, {
 		"name": "Belize",
 		"iso2": "BZ",
 		"countrycode": "084",
-		"image": "/flag_images/bz.png",
+		"image": "../../flag_images/bz.png",
 		"maps": ["world_mill"],
 		"capital": "Belmopan"
 	}, {
 		"name": "Benin",
 		"iso2": "BJ",
 		"countrycode": "204",
-		"image": "/flag_images/bj.png",
+		"image": "../../flag_images/bj.png",
 		"maps": ["world_mill"],
 		"capital": "Porto-Novo"
 	}, {
 		"name": "Bhutan",
 		"iso2": "BT",
 		"countrycode": "064",
-		"image": "/flag_images/bt.png",
+		"image": "../../flag_images/bt.png",
 		"maps": ["world_mill"],
 		"capital": "Thimphu"
 	}, {
 		"name": "Bolivia (Plurinational State of)",
 		"iso2": "BO",
 		"countrycode": "068",
-		"image": "/flag_images/bo.png",
+		"image": "../../flag_images/bo.png",
 		"maps": ["world_mill"],
 		"capital": "Sucre"
 	}, {
 		"name": "Bosnia and Herzegovina",
 		"iso2": "BA",
 		"countrycode": "070",
-		"image": "/flag_images/ba.png",
+		"image": "../../flag_images/ba.png",
 		"maps": ["world_mill", "europe_mill"],
 		"capital": "Sarajevo"
 	}, {
 		"name": "Botswana",
 		"iso2": "BW",
 		"countrycode": "072",
-		"image": "/flag_images/bw.png",
+		"image": "../../flag_images/bw.png",
 		"maps": ["world_mill"],
 		"capital": "Gaborone"
 	}, {
 		"name": "Brazil",
 		"iso2": "BR",
 		"countrycode": "076",
-		"image": "/flag_images/br.png",
+		"image": "../../flag_images/br.png",
 		"maps": ["world_mill"],
 		"capital": "Brasilia"
 	}, {
 		"name": "British Indian Ocean Territory",
 		"iso2": "IO",
 		"countrycode": "086",
-		"image": "/flag_images/io.png",
+		"image": "../../flag_images/io.png",
 		"maps": [],
 		"capital": "Diego Garcia"
 	}, {
 		"name": "Brunei Darussalam",
 		"iso2": "BN",
 		"countrycode": "096",
-		"image": "/flag_images/bn.png",
+		"image": "../../flag_images/bn.png",
 		"maps": ["world_mill"],
 		"capital": "Bandar Seri Begawan"
 	}, {
 		"name": "Bulgaria",
 		"iso2": "BG",
 		"countrycode": "100",
-		"image": "/flag_images/bg.png",
+		"image": "../../flag_images/bg.png",
 		"maps": ["world_mill", "europe_mill"],
 		"capital": "Sofia"
 	}, {
 		"name": "Burkina Faso",
 		"iso2": "BF",
 		"countrycode": "854",
-		"image": "/flag_images/bf.png",
+		"image": "../../flag_images/bf.png",
 		"maps": ["world_mill"],
 		"capital": "Ouagadougou"
 	}, {
 		"name": "Burundi",
 		"iso2": "BI",
 		"countrycode": "108",
-		"image": "/flag_images/bi.png",
+		"image": "../../flag_images/bi.png",
 		"maps": ["world_mill"],
 		"capital": "Bujumbura"
 	}, {
 		"name": "Cabo Verde",
 		"iso2": "CV",
 		"countrycode": "132",
-		"image": "/flag_images/cv.png",
+		"image": "../../flag_images/cv.png",
 		"maps": [],
 		"capital": "Praia"
 	}, {
 		"name": "Cambodia",
 		"iso2": "KH",
 		"countrycode": "116",
-		"image": "/flag_images/kh.png",
+		"image": "../../flag_images/kh.png",
 		"maps": ["world_mill"],
 		"capital": "Phnom Penh"
 	}, {
 		"name": "Cameroon",
 		"iso2": "CM",
 		"countrycode": "120",
-		"image": "/flag_images/cm.png",
+		"image": "../../flag_images/cm.png",
 		"maps": ["world_mill"],
 		"capital": "Yaounde"
 	}, {
 		"name": "Canada",
 		"iso2": "CA",
 		"countrycode": "124",
-		"image": "/flag_images/ca.png",
+		"image": "../../flag_images/ca.png",
 		"maps": ["world_mill"],
 		"capital": "Ottawa"
 	}, {
 		"name": "Cayman Islands",
 		"iso2": "KY",
 		"countrycode": "136",
-		"image": "/flag_images/ky.png",
+		"image": "../../flag_images/ky.png",
 		"maps": [],
 		"capital": "George Town"
 	}, {
 		"name": "Central African Republic",
 		"iso2": "CF",
 		"countrycode": "140",
-		"image": "/flag_images/cf.png",
+		"image": "../../flag_images/cf.png",
 		"maps": ["world_mill"],
 		"capital": "Bangui"
 	}, {
 		"name": "Chad",
 		"iso2": "TD",
 		"countrycode": "148",
-		"image": "/flag_images/td.png",
+		"image": "../../flag_images/td.png",
 		"maps": ["world_mill"],
 		"capital": "N\u0027Djamena"
 	}, {
 		"name": "Chile",
 		"iso2": "CL",
 		"countrycode": "152",
-		"image": "/flag_images/cl.png",
+		"image": "../../flag_images/cl.png",
 		"maps": ["world_mill"],
 		"capital": "Santiago"
 	}, {
 		"name": "China",
 		"iso2": "CN",
 		"countrycode": "156",
-		"image": "/flag_images/cn.png",
+		"image": "../../flag_images/cn.png",
 		"maps": ["world_mill"],
 		"capital": "Beijing"
 	}, {
 		"name": "Christmas Island",
 		"iso2": "CX",
 		"countrycode": "162",
-		"image": "/flag_images/cx.png",
+		"image": "../../flag_images/cx.png",
 		"maps": [],
 		"capital": "Flying Fish Cove"
 	}, {
 		"name": "Colombia",
 		"iso2": "CO",
 		"countrycode": "170",
-		"image": "/flag_images/co.png",
+		"image": "../../flag_images/co.png",
 		"maps": ["world_mill"],
 		"capital": "Bogota"
 	}, {
 		"name": "Comoros",
 		"iso2": "KM",
 		"countrycode": "174",
-		"image": "/flag_images/km.png",
+		"image": "../../flag_images/km.png",
 		"maps": [],
 		"capital": "Moroni"
 	}, {
 		"name": "Congo",
 		"iso2": "CG",
 		"countrycode": "178",
-		"image": "/flag_images/cg.png",
+		"image": "../../flag_images/cg.png",
 		"maps": ["world_mill"],
 		"capital": "Brazzaville"
 	}, {
 		"name": "Congo, Democratic Republic of the",
 		"iso2": "CD",
 		"countrycode": "180",
-		"image": "/flag_images/cd.png",
+		"image": "../../flag_images/cd.png",
 		"maps": ["world_mill"],
 		"capital": "Kinshasa"
 	}, {
 		"name": "Cook Islands",
 		"iso2": "CK",
 		"countrycode": "184",
-		"image": "/flag_images/ck.png",
+		"image": "../../flag_images/ck.png",
 		"maps": [],
 		"capital": "Avarua"
 	}, {
 		"name": "Costa Rica",
 		"iso2": "CR",
 		"countrycode": "188",
-		"image": "/flag_images/cr.png",
+		"image": "../../flag_images/cr.png",
 		"maps": ["world_mill"],
 		"capital": "San Jose"
 	}, {
 		"name": "C\u00F4te d\u0027Ivoire",
 		"iso2": "CI",
 		"countrycode": "384",
-		"image": "/flag_images/ci.png",
+		"image": "../../flag_images/ci.png",
 		"maps": ["world_mill"],
 		"capital": "Yamoussoukro"
 	}, {
 		"name": "Croatia",
 		"iso2": "HR",
 		"countrycode": "191",
-		"image": "/flag_images/hr.png",
+		"image": "../../flag_images/hr.png",
 		"maps": ["world_mill", "europe_mill"],
 		"capital": "Zagreb"
 	}, {
 		"name": "Cuba",
 		"iso2": "CU",
 		"countrycode": "192",
-		"image": "/flag_images/cu.png",
+		"image": "../../flag_images/cu.png",
 		"maps": ["world_mill"],
 		"capital": "Havana"
 	}, {
 		"name": "Cura\u00E7ao",
 		"iso2": "CW",
 		"countrycode": "531",
-		"image": "/flag_images/cw.png",
+		"image": "../../flag_images/cw.png",
 		"maps": [],
 		"capital": "Willemstad"
 	}, {
 		"name": "Cyprus",
 		"iso2": "CY",
 		"countrycode": "196",
-		"image": "/flag_images/cy.png",
+		"image": "../../flag_images/cy.png",
 		"maps": ["world_mill"],
 		"capital": "Nicosia"
 	}, {
 		"name": "Czechia",
 		"iso2": "CZ",
 		"countrycode": "203",
-		"image": "/flag_images/cz.png",
+		"image": "../../flag_images/cz.png",
 		"maps": ["world_mill", "europe_mill"],
 		"capital": "Prague"
 	}, {
 		"name": "Denmark",
 		"iso2": "DK",
 		"countrycode": "208",
-		"image": "/flag_images/dk.png",
+		"image": "../../flag_images/dk.png",
 		"maps": ["world_mill", "europe_mill"],
 		"capital": "Copenhagen"
 	}, {
 		"name": "Djibouti",
 		"iso2": "DJ",
 		"countrycode": "262",
-		"image": "/flag_images/dj.png",
+		"image": "../../flag_images/dj.png",
 		"maps": ["world_mill"],
 		"capital": "Djibouti"
 	}, {
 		"name": "Dominica",
 		"iso2": "DM",
 		"countrycode": "212",
-		"image": "/flag_images/dm.png",
+		"image": "../../flag_images/dm.png",
 		"maps": [],
 		"capital": "Roseau"
 	}, {
 		"name": "Dominican Republic",
 		"iso2": "DO",
 		"countrycode": "214",
-		"image": "/flag_images/do.png",
+		"image": "../../flag_images/do.png",
 		"maps": ["world_mill"],
 		"capital": "Santo Domingo"
 	}, {
 		"name": "Ecuador",
 		"iso2": "EC",
 		"countrycode": "218",
-		"image": "/flag_images/ec.png",
+		"image": "../../flag_images/ec.png",
 		"maps": ["world_mill"],
 		"capital": "Quito"
 	}, {
 		"name": "Egypt",
 		"iso2": "EG",
 		"countrycode": "818",
-		"image": "/flag_images/eg.png",
+		"image": "../../flag_images/eg.png",
 		"maps": ["world_mill"],
 		"capital": "Cairo"
 	}, {
 		"name": "El Salvador",
 		"iso2": "SV",
 		"countrycode": "222",
-		"image": "/flag_images/sv.png",
+		"image": "../../flag_images/sv.png",
 		"maps": ["world_mill"],
 		"capital": "San Salvador"
 	}, {
 		"name": "Equatorial Guinea",
 		"iso2": "GQ",
 		"countrycode": "226",
-		"image": "/flag_images/gq.png",
+		"image": "../../flag_images/gq.png",
 		"maps": ["world_mill"],
 		"capital": "Malabo"
 	}, {
 		"name": "Eritrea",
 		"iso2": "ER",
 		"countrycode": "232",
-		"image": "/flag_images/er.png",
+		"image": "../../flag_images/er.png",
 		"maps": ["world_mill"],
 		"capital": "Asmara"
 	}, {
 		"name": "Estonia",
 		"iso2": "EE",
 		"countrycode": "233",
-		"image": "/flag_images/ee.png",
+		"image": "../../flag_images/ee.png",
 		"maps": ["world_mill", "europe_mill"],
 		"capital": "Tallinn"
 	}, {
 		"name": "Eswatini / Swaziland",
 		"iso2": "SZ",
 		"countrycode": "748",
-		"image": "/flag_images/sz.png",
+		"image": "../../flag_images/sz.png",
 		"maps": ["world_mill"],
 		"capital": "Mbabane"
 	}, {
 		"name": "Ethiopia",
 		"iso2": "ET",
 		"countrycode": "231",
-		"image": "/flag_images/et.png",
+		"image": "../../flag_images/et.png",
 		"maps": ["world_mill"],
 		"capital": "Addis Ababa"
 	}, {
 		"name": "Falkland Islands (Malvinas)",
 		"iso2": "FK",
 		"countrycode": "238",
-		"image": "/flag_images/fk.png",
+		"image": "../../flag_images/fk.png",
 		"maps": ["world_mill"],
 		"capital": "Stanley"
 	}, {
 		"name": "Faroe Islands",
 		"iso2": "FO",
 		"countrycode": "234",
-		"image": "/flag_images/fo.png",
+		"image": "../../flag_images/fo.png",
 		"maps": ["europe_mill"],
 		"capital": "Torshavn"
 	}, {
 		"name": "Fiji",
 		"iso2": "FJ",
 		"countrycode": "242",
-		"image": "/flag_images/fj.png",
+		"image": "../../flag_images/fj.png",
 		"maps": ["world_mill", "oceania_mill"],
 		"capital": "Suva"
 	}, {
 		"name": "Finland",
 		"iso2": "FI",
 		"countrycode": "246",
-		"image": "/flag_images/fi.png",
+		"image": "../../flag_images/fi.png",
 		"maps": ["world_mill", "europe_mill"],
 		"capital": "Helsinki"
 	}, {
 		"name": "France",
 		"iso2": "FR",
 		"countrycode": "250",
-		"image": "/flag_images/fr.png",
+		"image": "../../flag_images/fr.png",
 		"maps": ["world_mill", "europe_mill"],
 		"capital": "Paris"
 	}, {
 		"name": "French Polynesia",
 		"iso2": "PF",
 		"countrycode": "258",
-		"image": "/flag_images/pf.png",
+		"image": "../../flag_images/pf.png",
 		"maps": ["oceania_mill"],
 		"capital": "Papeete"
 	}, {
 		"name": "French Southern Territories",
 		"iso2": "TF",
 		"countrycode": "260",
-		"image": "/flag_images/tf.png",
+		"image": "../../flag_images/tf.png",
 		"maps": ["world_mill"],
 		"capital": "Port-aux-Francais"
 	}, {
 		"name": "Gabon",
 		"iso2": "GA",
 		"countrycode": "266",
-		"image": "/flag_images/ga.png",
+		"image": "../../flag_images/ga.png",
 		"maps": ["world_mill"],
 		"capital": "Libreville"
 	}, {
 		"name": "Gambia",
 		"iso2": "GM",
 		"countrycode": "270",
-		"image": "/flag_images/gm.png",
+		"image": "../../flag_images/gm.png",
 		"maps": ["world_mill"],
 		"capital": "Banjul"
 	}, {
 		"name": "Georgia",
 		"iso2": "GE",
 		"countrycode": "268",
-		"image": "/flag_images/ge.png",
+		"image": "../../flag_images/ge.png",
 		"maps": ["world_mill"],
 		"capital": "Tbilisi"
 	}, {
 		"name": "Germany",
 		"iso2": "DE",
 		"countrycode": "276",
-		"image": "/flag_images/de.png",
+		"image": "../../flag_images/de.png",
 		"maps": ["world_mill", "europe_mill"],
 		"capital": "Berlin"
 	}, {
 		"name": "Ghana",
 		"iso2": "GH",
 		"countrycode": "288",
-		"image": "/flag_images/gh.png",
+		"image": "../../flag_images/gh.png",
 		"maps": ["world_mill"],
 		"capital": "Accra"
 	}, {
 		"name": "Gibraltar",
 		"iso2": "GI",
 		"countrycode": "292",
-		"image": "/flag_images/gi.png",
+		"image": "../../flag_images/gi.png",
 		"maps": [],
 		"capital": "Gibraltar"
 	}, {
 		"name": "Greece",
 		"iso2": "GR",
 		"countrycode": "300",
-		"image": "/flag_images/gr.png",
+		"image": "../../flag_images/gr.png",
 		"maps": ["world_mill", "europe_mill"],
 		"capital": "Athens"
 	}, {
 		"name": "Greenland",
 		"iso2": "GL",
 		"countrycode": "304",
-		"image": "/flag_images/gl.png",
+		"image": "../../flag_images/gl.png",
 		"maps": ["world_mill"],
 		"capital": "Nuuk"
 	}, {
 		"name": "Grenada",
 		"iso2": "GD",
 		"countrycode": "308",
-		"image": "/flag_images/gd.png",
+		"image": "../../flag_images/gd.png",
 		"maps": [],
 		"capital": "St. George\u0027s"
 	}, {
 		"name": "Guam",
 		"iso2": "GU",
 		"countrycode": "316",
-		"image": "/flag_images/gu.png",
+		"image": "../../flag_images/gu.png",
 		"maps": ["oceania_mill"],
 		"capital": "Hagatna"
 	}, {
 		"name": "Guatemala",
 		"iso2": "GT",
 		"countrycode": "320",
-		"image": "/flag_images/gt.png",
+		"image": "../../flag_images/gt.png",
 		"maps": ["world_mill"],
 		"capital": "Guatemala City"
 	}, {
 		"name": "Guernsey",
 		"iso2": "GG",
 		"countrycode": "831",
-		"image": "/flag_images/gg.png",
+		"image": "../../flag_images/gg.png",
 		"maps": ["europe_mill"],
 		"capital": "St Peter Port"
 	}, {
 		"name": "Guinea",
 		"iso2": "GN",
 		"countrycode": "324",
-		"image": "/flag_images/gn.png",
+		"image": "../../flag_images/gn.png",
 		"maps": ["world_mill"],
 		"capital": "Conakry"
 	}, {
 		"name": "Guinea-Bissau",
 		"iso2": "GW",
 		"countrycode": "624",
-		"image": "/flag_images/gw.png",
+		"image": "../../flag_images/gw.png",
 		"maps": ["world_mill"],
 		"capital": "Bissau"
 	}, {
 		"name": "Guyana",
 		"iso2": "GY",
 		"countrycode": "328",
-		"image": "/flag_images/gy.png",
+		"image": "../../flag_images/gy.png",
 		"maps": ["world_mill"],
 		"capital": "Georgetown"
 	}, {
 		"name": "Haiti",
 		"iso2": "HT",
 		"countrycode": "332",
-		"image": "/flag_images/ht.png",
+		"image": "../../flag_images/ht.png",
 		"maps": ["world_mill"],
 		"capital": "Port-au-Prince"
 	}, {
 		"name": "Holy See",
 		"iso2": "VA",
 		"countrycode": "336",
-		"image": "/flag_images/va.png",
+		"image": "../../flag_images/va.png",
 		"maps": [],
 		"capital": "Vatican City"
 	}, {
 		"name": "Honduras",
 		"iso2": "HN",
 		"countrycode": "340",
-		"image": "/flag_images/hn.png",
+		"image": "../../flag_images/hn.png",
 		"maps": ["world_mill"],
 		"capital": "Tegucigalpa"
 	}, {
 		"name": "Hong Kong",
 		"iso2": "HK",
 		"countrycode": "344",
-		"image": "/flag_images/hk.png",
+		"image": "../../flag_images/hk.png",
 		"maps": [],
 		"capital": "Hong Kong"
 	}, {
 		"name": "Hungary",
 		"iso2": "HU",
 		"countrycode": "348",
-		"image": "/flag_images/hu.png",
+		"image": "../../flag_images/hu.png",
 		"maps": ["world_mill", "europe_mill"],
 		"capital": "Budapest"
 	}, {
 		"name": "Iceland",
 		"iso2": "IS",
 		"countrycode": "352",
-		"image": "/flag_images/is.png",
+		"image": "../../flag_images/is.png",
 		"maps": ["world_mill", "europe_mill"],
 		"capital": "Reykjavik"
 	}, {
 		"name": "India",
 		"iso2": "IN",
 		"countrycode": "356",
-		"image": "/flag_images/in.png",
+		"image": "../../flag_images/in.png",
 		"maps": ["world_mill"],
 		"capital": "New Delhi"
 	}, {
 		"name": "Indonesia",
 		"iso2": "ID",
 		"countrycode": "360",
-		"image": "/flag_images/id.png",
+		"image": "../../flag_images/id.png",
 		"maps": ["world_mill"],
 		"capital": "Jakarta"
 	}, {
 		"name": "Iran (Islamic Republic of)",
 		"iso2": "IR",
 		"countrycode": "364",
-		"image": "/flag_images/ir.png",
+		"image": "../../flag_images/ir.png",
 		"maps": ["world_mill"],
 		"capital": "Tehran"
 	}, {
 		"name": "Iraq",
 		"iso2": "IQ",
 		"countrycode": "368",
-		"image": "/flag_images/iq.png",
+		"image": "../../flag_images/iq.png",
 		"maps": ["world_mill"],
 		"capital": "Baghdad"
 	}, {
 		"name": "Ireland",
 		"iso2": "IE",
 		"countrycode": "372",
-		"image": "/flag_images/ie.png",
+		"image": "../../flag_images/ie.png",
 		"maps": ["world_mill", "europe_mill"],
 		"capital": "Dublin"
 	}, {
 		"name": "Isle of Man",
 		"iso2": "IM",
 		"countrycode": "833",
-		"image": "/flag_images/im.png",
+		"image": "../../flag_images/im.png",
 		"maps": ["europe_mill"],
 		"capital": "Douglas, Isle of Man"
 	}, {
 		"name": "Israel",
 		"iso2": "IL",
 		"countrycode": "376",
-		"image": "/flag_images/il.png",
+		"image": "../../flag_images/il.png",
 		"maps": ["world_mill"],
 		"capital": "Jerusalem"
 	}, {
 		"name": "Italy",
 		"iso2": "IT",
 		"countrycode": "380",
-		"image": "/flag_images/it.png",
+		"image": "../../flag_images/it.png",
 		"maps": ["world_mill", "europe_mill"],
 		"capital": "Rome"
 	}, {
 		"name": "Jamaica",
 		"iso2": "JM",
 		"countrycode": "388",
-		"image": "/flag_images/jm.png",
+		"image": "../../flag_images/jm.png",
 		"maps": ["world_mill"],
 		"capital": "Kingston"
 	}, {
 		"name": "Japan",
 		"iso2": "JP",
 		"countrycode": "392",
-		"image": "/flag_images/jp.png",
+		"image": "../../flag_images/jp.png",
 		"maps": ["world_mill"],
 		"capital": "Tokyo"
 	}, {
 		"name": "Jersey",
 		"iso2": "JE",
 		"countrycode": "832",
-		"image": "/flag_images/je.png",
+		"image": "../../flag_images/je.png",
 		"maps": ["europe_mill"],
 		"capital": "Saint Helier"
 	}, {
 		"name": "Jordan",
 		"iso2": "JO",
 		"countrycode": "400",
-		"image": "/flag_images/jo.png",
+		"image": "../../flag_images/jo.png",
 		"maps": ["world_mill"],
 		"capital": "Amman"
 	}, {
 		"name": "Kazakhstan",
 		"iso2": "KZ",
 		"countrycode": "398",
-		"image": "/flag_images/kz.png",
+		"image": "../../flag_images/kz.png",
 		"maps": ["world_mill"],
 		"capital": "Astana"
 	}, {
 		"name": "Kenya",
 		"iso2": "KE",
 		"countrycode": "404",
-		"image": "/flag_images/ke.png",
+		"image": "../../flag_images/ke.png",
 		"maps": ["world_mill"],
 		"capital": "Nairobi"
 	}, {
 		"name": "Kiribati",
 		"iso2": "KI",
 		"countrycode": "296",
-		"image": "/flag_images/ki.png",
+		"image": "../../flag_images/ki.png",
 		"maps": ["oceania_mill"],
 		"capital": "Tarawa"
 	}, {
 		"name": "Korea (Democratic People\u0027s Republic of)",
 		"iso2": "KP",
 		"countrycode": "408",
-		"image": "/flag_images/kp.png",
+		"image": "../../flag_images/kp.png",
 		"maps": ["world_mill"],
 		"capital": "Pyongyang"
 	}, {
 		"name": "Korea, Republic of",
 		"iso2": "KR",
 		"countrycode": "410",
-		"image": "/flag_images/kr.png",
+		"image": "../../flag_images/kr.png",
 		"maps": ["world_mill"],
 		"capital": "Seoul"
 	}, {
 		"name": "Kuwait",
 		"iso2": "KW",
 		"countrycode": "414",
-		"image": "/flag_images/kw.png",
+		"image": "../../flag_images/kw.png",
 		"maps": ["world_mill"],
 		"capital": "Kuwait City"
 	}, {
 		"name": "Kyrgyzstan",
 		"iso2": "KG",
 		"countrycode": "417",
-		"image": "/flag_images/kg.png",
+		"image": "../../flag_images/kg.png",
 		"maps": ["world_mill"],
 		"capital": "Bishkek"
 	}, {
 		"name": "Lao People\u0027s Democratic Republic",
 		"iso2": "LA",
 		"countrycode": "418",
-		"image": "/flag_images/la.png",
+		"image": "../../flag_images/la.png",
 		"maps": ["world_mill"],
 		"capital": "Vientiane"
 	}, {
 		"name": "Latvia",
 		"iso2": "LV",
 		"countrycode": "428",
-		"image": "/flag_images/lv.png",
+		"image": "../../flag_images/lv.png",
 		"maps": ["world_mill", "europe_mill"],
 		"capital": "Riga"
 	}, {
 		"name": "Lebanon",
 		"iso2": "LB",
 		"countrycode": "422",
-		"image": "/flag_images/lb.png",
+		"image": "../../flag_images/lb.png",
 		"maps": ["world_mill"],
 		"capital": "Beirut"
 	}, {
 		"name": "Lesotho",
 		"iso2": "LS",
 		"countrycode": "426",
-		"image": "/flag_images/ls.png",
+		"image": "../../flag_images/ls.png",
 		"maps": ["world_mill"],
 		"capital": "Maseru"
 	}, {
 		"name": "Liberia",
 		"iso2": "LR",
 		"countrycode": "430",
-		"image": "/flag_images/lr.png",
+		"image": "../../flag_images/lr.png",
 		"maps": ["world_mill"],
 		"capital": "Monrovia"
 	}, {
 		"name": "Libya",
 		"iso2": "LY",
 		"countrycode": "434",
-		"image": "/flag_images/ly.png",
+		"image": "../../flag_images/ly.png",
 		"maps": ["world_mill"],
 		"capital": "Tripolis"
 	}, {
 		"name": "Liechtenstein",
 		"iso2": "LI",
 		"countrycode": "438",
-		"image": "/flag_images/li.png",
+		"image": "../../flag_images/li.png",
 		"maps": ["europe_mill"],
 		"capital": "Vaduz"
 	}, {
 		"name": "Lithuania",
 		"iso2": "LT",
 		"countrycode": "440",
-		"image": "/flag_images/lt.png",
+		"image": "../../flag_images/lt.png",
 		"maps": ["world_mill", "europe_mill"],
 		"capital": "Vilnius"
 	}, {
 		"name": "Luxembourg",
 		"iso2": "LU",
 		"countrycode": "442",
-		"image": "/flag_images/lu.png",
+		"image": "../../flag_images/lu.png",
 		"maps": ["world_mill", "europe_mill"],
 		"capital": "Luxembourg"
 	}, {
 		"name": "Macao",
 		"iso2": "MO",
 		"countrycode": "446",
-		"image": "/flag_images/mo.png",
+		"image": "../../flag_images/mo.png",
 		"maps": [],
 		"capital": "Macao"
 	}, {
 		"name": "Madagascar",
 		"iso2": "MG",
 		"countrycode": "450",
-		"image": "/flag_images/mg.png",
+		"image": "../../flag_images/mg.png",
 		"maps": ["world_mill"],
 		"capital": "Antananarivo"
 	}, {
 		"name": "Malawi",
 		"iso2": "MW",
 		"countrycode": "454",
-		"image": "/flag_images/mw.png",
+		"image": "../../flag_images/mw.png",
 		"maps": ["world_mill"],
 		"capital": "Lilongwe"
 	}, {
 		"name": "Malaysia",
 		"iso2": "MY",
 		"countrycode": "458",
-		"image": "/flag_images/my.png",
+		"image": "../../flag_images/my.png",
 		"maps": ["world_mill"],
 		"capital": "Kuala Lumpur"
 	}, {
 		"name": "Maldives",
 		"iso2": "MV",
 		"countrycode": "462",
-		"image": "/flag_images/mv.png",
+		"image": "../../flag_images/mv.png",
 		"maps": [],
 		"capital": "Male"
 	}, {
 		"name": "Mali",
 		"iso2": "ML",
 		"countrycode": "466",
-		"image": "/flag_images/ml.png",
+		"image": "../../flag_images/ml.png",
 		"maps": ["world_mill"],
 		"capital": "Bamako"
 	}, {
 		"name": "Malta",
 		"iso2": "MT",
 		"countrycode": "470",
-		"image": "/flag_images/mt.png",
+		"image": "../../flag_images/mt.png",
 		"maps": ["europe_mill"],
 		"capital": "Valletta"
 	}, {
 		"name": "Marshall Islands",
 		"iso2": "MH",
 		"countrycode": "584",
-		"image": "/flag_images/mh.png",
+		"image": "../../flag_images/mh.png",
 		"maps": [],
 		"capital": "Majuro"
 	}, {
 		"name": "Martinique",
 		"iso2": "MQ",
 		"countrycode": "474",
-		"image": "/flag_images/mq.png",
+		"image": "../../flag_images/mq.png",
 		"maps": [],
 		"capital": "Fort-de-France"
 	}, {
 		"name": "Mauritania",
 		"iso2": "MR",
 		"countrycode": "478",
-		"image": "/flag_images/mr.png",
+		"image": "../../flag_images/mr.png",
 		"maps": ["world_mill"],
 		"capital": "Nouakchott"
 	}, {
 		"name": "Mauritius",
 		"iso2": "MU",
 		"countrycode": "480",
-		"image": "/flag_images/mu.png",
+		"image": "../../flag_images/mu.png",
 		"maps": [],
 		"capital": "Port Louis"
 	}, {
 		"name": "Mexico",
 		"iso2": "MX",
 		"countrycode": "484",
-		"image": "/flag_images/mx.png",
+		"image": "../../flag_images/mx.png",
 		"maps": ["world_mill"],
 		"capital": "Mexico City"
 	}, {
 		"name": "Micronesia (Federated States of)",
 		"iso2": "FM",
 		"countrycode": "583",
-		"image": "/flag_images/fm.png",
+		"image": "../../flag_images/fm.png",
 		"maps": ["oceania_mill"],
 		"capital": "Palikir"
 	}, {
 		"name": "Moldova, Republic of",
 		"iso2": "MD",
 		"countrycode": "498",
-		"image": "/flag_images/md.png",
+		"image": "../../flag_images/md.png",
 		"maps": ["world_mill", "europe_mill"],
 		"capital": "Chisinau"
 	}, {
 		"name": "Monaco",
 		"iso2": "MC",
 		"countrycode": "492",
-		"image": "/flag_images/mc.png",
+		"image": "../../flag_images/mc.png",
 		"maps": [],
 		"capital": "Monaco"
 	}, {
 		"name": "Mongolia",
 		"iso2": "MN",
 		"countrycode": "496",
-		"image": "/flag_images/mn.png",
+		"image": "../../flag_images/mn.png",
 		"maps": ["world_mill"],
 		"capital": "Ulan Bator"
 	}, {
 		"name": "Montenegro",
 		"iso2": "ME",
 		"countrycode": "499",
-		"image": "/flag_images/me.png",
+		"image": "../../flag_images/me.png",
 		"maps": ["world_mill", "europe_mill"],
 		"capital": "Podgorica"
 	}, {
 		"name": "Montserrat",
 		"iso2": "MS",
 		"countrycode": "500",
-		"image": "/flag_images/ms.png",
+		"image": "../../flag_images/ms.png",
 		"maps": [],
 		"capital": "Plymouth"
 	}, {
 		"name": "Morocco",
 		"iso2": "MA",
 		"countrycode": "504",
-		"image": "/flag_images/ma.png",
+		"image": "../../flag_images/ma.png",
 		"maps": ["world_mill"],
 		"capital": "Rabat"
 	}, {
 		"name": "Mozambique",
 		"iso2": "MZ",
 		"countrycode": "508",
-		"image": "/flag_images/mz.png",
+		"image": "../../flag_images/mz.png",
 		"maps": ["world_mill"],
 		"capital": "Maputo"
 	}, {
 		"name": "Myanmar",
 		"iso2": "MM",
 		"countrycode": "104",
-		"image": "/flag_images/mm.png",
+		"image": "../../flag_images/mm.png",
 		"maps": ["world_mill"],
 		"capital": "Nay Pyi Taw"
 	}, {
 		"name": "Namibia",
 		"iso2": "NA",
 		"countrycode": "516",
-		"image": "/flag_images/na.png",
+		"image": "../../flag_images/na.png",
 		"maps": ["world_mill"],
 		"capital": "Windhoek"
 	}, {
 		"name": "Nauru",
 		"iso2": "NR",
 		"countrycode": "520",
-		"image": "/flag_images/nr.png",
+		"image": "../../flag_images/nr.png",
 		"maps": [],
 		"capital": "Yaren"
 	}, {
 		"name": "Nepal",
 		"iso2": "NP",
 		"countrycode": "524",
-		"image": "/flag_images/np.png",
+		"image": "../../flag_images/np.png",
 		"maps": ["world_mill"],
 		"capital": "Kathmandu"
 	}, {
 		"name": "Netherlands",
 		"iso2": "NL",
 		"countrycode": "528",
-		"image": "/flag_images/nl.png",
+		"image": "../../flag_images/nl.png",
 		"maps": ["world_mill", "europe_mill"],
 		"capital": "Amsterdam"
 	}, {
 		"name": "New Caledonia",
 		"iso2": "NC",
 		"countrycode": "540",
-		"image": "/flag_images/nc.png",
+		"image": "../../flag_images/nc.png",
 		"maps": ["world_mill", "oceania_mill"],
 		"capital": "Noumea"
 	}, {
 		"name": "New Zealand",
 		"iso2": "NZ",
 		"countrycode": "554",
-		"image": "/flag_images/nz.png",
+		"image": "../../flag_images/nz.png",
 		"maps": ["world_mill", "oceania_mill"],
 		"capital": "Wellington"
 	}, {
 		"name": "Nicaragua",
 		"iso2": "NI",
 		"countrycode": "558",
-		"image": "/flag_images/ni.png",
+		"image": "../../flag_images/ni.png",
 		"maps": ["world_mill"],
 		"capital": "Managua"
 	}, {
 		"name": "Niger",
 		"iso2": "NE",
 		"countrycode": "562",
-		"image": "/flag_images/ne.png",
+		"image": "../../flag_images/ne.png",
 		"maps": ["world_mill"],
 		"capital": "Niamey"
 	}, {
 		"name": "Nigeria",
 		"iso2": "NG",
 		"countrycode": "566",
-		"image": "/flag_images/ng.png",
+		"image": "../../flag_images/ng.png",
 		"maps": ["world_mill"],
 		"capital": "Abuja"
 	}, {
 		"name": "Niue",
 		"iso2": "NU",
 		"countrycode": "570",
-		"image": "/flag_images/nu.png",
+		"image": "../../flag_images/nu.png",
 		"maps": ["oceania_mill"],
 		"capital": "Alofi"
 	}, {
 		"name": "Norfolk Island",
 		"iso2": "NF",
 		"countrycode": "574",
-		"image": "/flag_images/nf.png",
+		"image": "../../flag_images/nf.png",
 		"maps": [],
 		"capital": "Kingston"
 	}, {
 		"name": "North Macedonia",
 		"iso2": "MK",
 		"countrycode": "807",
-		"image": "/flag_images/mk.png",
+		"image": "../../flag_images/mk.png",
 		"maps": ["world_mill", "europe_mill"],
 		"capital": "Skopje"
 	}, {
 		"name": "Northern Mariana Islands",
 		"iso2": "MP",
 		"countrycode": "580",
-		"image": "/flag_images/mp.png",
+		"image": "../../flag_images/mp.png",
 		"maps": [],
 		"capital": "Saipan"
 	}, {
 		"name": "Norway",
 		"iso2": "NO",
 		"countrycode": "578",
-		"image": "/flag_images/no.png",
+		"image": "../../flag_images/no.png",
 		"maps": ["world_mill", "europe_mill"],
 		"capital": "Oslo"
 	}, {
 		"name": "Oman",
 		"iso2": "OM",
 		"countrycode": "512",
-		"image": "/flag_images/om.png",
+		"image": "../../flag_images/om.png",
 		"maps": ["world_mill"],
 		"capital": "Muscat"
 	}, {
 		"name": "Pakistan",
 		"iso2": "PK",
 		"countrycode": "586",
-		"image": "/flag_images/pk.png",
+		"image": "../../flag_images/pk.png",
 		"maps": ["world_mill"],
 		"capital": "Islamabad"
 	}, {
 		"name": "Palau",
 		"iso2": "PW",
 		"countrycode": "585",
-		"image": "/flag_images/pw.png",
+		"image": "../../flag_images/pw.png",
 		"maps": ["oceania_mill"],
 		"capital": "Melekeok"
 	}, {
 		"name": "Palestine, State of",
 		"iso2": "PS",
 		"countrycode": "275",
-		"image": "/flag_images/ps.png",
+		"image": "../../flag_images/ps.png",
 		"maps": ["world_mill"],
 		"capital": "East Jerusalem"
 	}, {
 		"name": "Panama",
 		"iso2": "PA",
 		"countrycode": "591",
-		"image": "/flag_images/pa.png",
+		"image": "../../flag_images/pa.png",
 		"maps": ["world_mill"],
 		"capital": "Panama City"
 	}, {
 		"name": "Papua New Guinea",
 		"iso2": "PG",
 		"countrycode": "598",
-		"image": "/flag_images/pg.png",
+		"image": "../../flag_images/pg.png",
 		"maps": ["world_mill", "oceania_mill"],
 		"capital": "Port Moresby"
 	}, {
 		"name": "Paraguay",
 		"iso2": "PY",
 		"countrycode": "600",
-		"image": "/flag_images/py.png",
+		"image": "../../flag_images/py.png",
 		"maps": ["world_mill"],
 		"capital": "Asuncion"
 	}, {
 		"name": "Peru",
 		"iso2": "PE",
 		"countrycode": "604",
-		"image": "/flag_images/pe.png",
+		"image": "../../flag_images/pe.png",
 		"maps": ["world_mill"],
 		"capital": "Lima"
 	}, {
 		"name": "Philippines",
 		"iso2": "PH",
 		"countrycode": "608",
-		"image": "/flag_images/ph.png",
+		"image": "../../flag_images/ph.png",
 		"maps": ["world_mill"],
 		"capital": "Manila"
 	}, {
 		"name": "Poland",
 		"iso2": "PL",
 		"countrycode": "616",
-		"image": "/flag_images/pl.png",
+		"image": "../../flag_images/pl.png",
 		"maps": ["world_mill", "europe_mill"],
 		"capital": "Warsaw"
 	}, {
 		"name": "Portugal",
 		"iso2": "PT",
 		"countrycode": "620",
-		"image": "/flag_images/pt.png",
+		"image": "../../flag_images/pt.png",
 		"maps": ["world_mill", "europe_mill"],
 		"capital": "Lisbon"
 	}, {
 		"name": "Puerto Rico",
 		"iso2": "PR",
 		"countrycode": "630",
-		"image": "/flag_images/pr.png",
+		"image": "../../flag_images/pr.png",
 		"maps": ["world_mill"],
 		"capital": "San Juan"
 	}, {
 		"name": "Qatar",
 		"iso2": "QA",
 		"countrycode": "634",
-		"image": "/flag_images/qa.png",
+		"image": "../../flag_images/qa.png",
 		"maps": ["world_mill"],
 		"capital": "Doha"
 	}, {
 		"name": "Romania",
 		"iso2": "RO",
 		"countrycode": "642",
-		"image": "/flag_images/ro.png",
+		"image": "../../flag_images/ro.png",
 		"maps": ["world_mill", "europe_mill"],
 		"capital": "Bucharest"
 	}, {
 		"name": "Russian Federation",
 		"iso2": "RU",
 		"countrycode": "643",
-		"image": "/flag_images/ru.png",
+		"image": "../../flag_images/ru.png",
 		"maps": ["world_mill", "europe_mill"],
 		"capital": "Moscow"
 	}, {
 		"name": "Rwanda",
 		"iso2": "RW",
 		"countrycode": "646",
-		"image": "/flag_images/rw.png",
+		"image": "../../flag_images/rw.png",
 		"maps": ["world_mill"],
 		"capital": "Kigali"
 	}, {
 		"name": "Saint Kitts and Nevis",
 		"iso2": "KN",
 		"countrycode": "659",
-		"image": "/flag_images/kn.png",
+		"image": "../../flag_images/kn.png",
 		"maps": [],
 		"capital": "Basseterre"
 	}, {
 		"name": "Saint Lucia",
 		"iso2": "LC",
 		"countrycode": "662",
-		"image": "/flag_images/lc.png",
+		"image": "../../flag_images/lc.png",
 		"maps": [],
 		"capital": "Castries"
 	}, {
 		"name": "Saint Vincent and the Grenadines",
 		"iso2": "VC",
 		"countrycode": "670",
-		"image": "/flag_images/vc.png",
+		"image": "../../flag_images/vc.png",
 		"maps": [],
 		"capital": "Kingstown"
 	}, {
 		"name": "Samoa",
 		"iso2": "WS",
 		"countrycode": "882",
-		"image": "/flag_images/ws.png",
+		"image": "../../flag_images/ws.png",
 		"maps": ["oceania_mill"],
 		"capital": "Apia"
 	}, {
 		"name": "San Marino",
 		"iso2": "SM",
 		"countrycode": "674",
-		"image": "/flag_images/sm.png",
+		"image": "../../flag_images/sm.png",
 		"maps": ["europe_mill"],
 		"capital": "San Marino"
 	}, {
 		"name": "Sao Tome and Principe",
 		"iso2": "ST",
 		"countrycode": "678",
-		"image": "/flag_images/st.png",
+		"image": "../../flag_images/st.png",
 		"maps": [],
 		"capital": "Sao Tome"
 	}, {
 		"name": "Saudi Arabia",
 		"iso2": "SA",
 		"countrycode": "682",
-		"image": "/flag_images/sa.png",
+		"image": "../../flag_images/sa.png",
 		"maps": ["world_mill"],
 		"capital": "Riyadh"
 	}, {
 		"name": "Senegal",
 		"iso2": "SN",
 		"countrycode": "686",
-		"image": "/flag_images/sn.png",
+		"image": "../../flag_images/sn.png",
 		"maps": ["world_mill"],
 		"capital": "Dakar"
 	}, {
 		"name": "Serbia",
 		"iso2": "RS",
 		"countrycode": "688",
-		"image": "/flag_images/rs.png",
+		"image": "../../flag_images/rs.png",
 		"maps": ["world_mill", "europe_mill"],
 		"capital": "Belgrade"
 	}, {
 		"name": "Seychelles",
 		"iso2": "SC",
 		"countrycode": "690",
-		"image": "/flag_images/sc.png",
+		"image": "../../flag_images/sc.png",
 		"maps": [],
 		"capital": "Victoria"
 	}, {
 		"name": "Sierra Leone",
 		"iso2": "SL",
 		"countrycode": "694",
-		"image": "/flag_images/sl.png",
+		"image": "../../flag_images/sl.png",
 		"maps": ["world_mill"],
 		"capital": "Freetown"
 	}, {
 		"name": "Singapore",
 		"iso2": "SG",
 		"countrycode": "702",
-		"image": "/flag_images/sg.png",
+		"image": "../../flag_images/sg.png",
 		"maps": [],
 		"capital": "Singapur"
 	}, {
 		"name": "Sint Maarten (Dutch part)",
 		"iso2": "SX",
 		"countrycode": "534",
-		"image": "/flag_images/sx.png",
+		"image": "../../flag_images/sx.png",
 		"maps": [],
 		"capital": "Philipsburg"
 	}, {
 		"name": "Slovakia",
 		"iso2": "SK",
 		"countrycode": "703",
-		"image": "/flag_images/sk.png",
+		"image": "../../flag_images/sk.png",
 		"maps": ["world_mill", "europe_mill"],
 		"capital": "Bratislava"
 	}, {
 		"name": "Slovenia",
 		"iso2": "SI",
 		"countrycode": "705",
-		"image": "/flag_images/si.png",
+		"image": "../../flag_images/si.png",
 		"maps": ["world_mill", "europe_mill"],
 		"capital": "Ljubljana"
 	}, {
 		"name": "Solomon Islands",
 		"iso2": "SB",
 		"countrycode": "090",
-		"image": "/flag_images/sb.png",
+		"image": "../../flag_images/sb.png",
 		"maps": ["world_mill", "oceania_mill"],
 		"capital": "Honiara"
 	}, {
 		"name": "Somalia",
 		"iso2": "SO",
 		"countrycode": "706",
-		"image": "/flag_images/so.png",
+		"image": "../../flag_images/so.png",
 		"maps": ["world_mill"],
 		"capital": "Mogadishu"
 	}, {
 		"name": "South Africa",
 		"iso2": "ZA",
 		"countrycode": "710",
-		"image": "/flag_images/za.png",
+		"image": "../../flag_images/za.png",
 		"maps": ["world_mill"],
 		"capital": "Pretoria"
 	}, {
 		"name": "South Georgia and the South Sandwich Islands",
 		"iso2": "GS",
 		"countrycode": "239",
-		"image": "/flag_images/gs.png",
+		"image": "../../flag_images/gs.png",
 		"maps": [],
 		"capital": "Grytviken"
 	}, {
 		"name": "South Sudan",
 		"iso2": "SS",
 		"countrycode": "728",
-		"image": "/flag_images/ss.png",
+		"image": "../../flag_images/ss.png",
 		"maps": ["world_mill"],
 		"capital": "Juba"
 	}, {
 		"name": "Spain",
 		"iso2": "ES",
 		"countrycode": "724",
-		"image": "/flag_images/es.png",
+		"image": "../../flag_images/es.png",
 		"maps": ["world_mill", "europe_mill"],
 		"capital": "Madrid"
 	}, {
 		"name": "Sri Lanka",
 		"iso2": "LK",
 		"countrycode": "144",
-		"image": "/flag_images/lk.png",
+		"image": "../../flag_images/lk.png",
 		"maps": ["world_mill"],
 		"capital": "Colombo"
 	}, {
 		"name": "Sudan",
 		"iso2": "SD",
 		"countrycode": "729",
-		"image": "/flag_images/sd.png",
+		"image": "../../flag_images/sd.png",
 		"maps": ["world_mill"],
 		"capital": "Khartoum"
 	}, {
 		"name": "Suriname",
 		"iso2": "SR",
 		"countrycode": "740",
-		"image": "/flag_images/sr.png",
+		"image": "../../flag_images/sr.png",
 		"maps": ["world_mill"],
 		"capital": "Paramaribo"
 	}, {
 		"name": "Sweden",
 		"iso2": "SE",
 		"countrycode": "752",
-		"image": "/flag_images/se.png",
+		"image": "../../flag_images/se.png",
 		"maps": ["world_mill", "europe_mill"],
 		"capital": "Stockholm"
 	}, {
 		"name": "Switzerland",
 		"iso2": "CH",
 		"countrycode": "756",
-		"image": "/flag_images/ch.png",
+		"image": "../../flag_images/ch.png",
 		"maps": ["world_mill", "europe_mill"],
 		"capital": "Berne"
 	}, {
 		"name": "Syrian Arab Republic",
 		"iso2": "SY",
 		"countrycode": "760",
-		"image": "/flag_images/sy.png",
+		"image": "../../flag_images/sy.png",
 		"maps": ["world_mill"],
 		"capital": "Damascus"
 	}, {
 		"name": "Taiwan, Province of China",
 		"iso2": "TW",
 		"countrycode": "158",
-		"image": "/flag_images/tw.png",
+		"image": "../../flag_images/tw.png",
 		"maps": ["world_mill"],
 		"capital": "Taipei"
 	}, {
 		"name": "Tajikistan",
 		"iso2": "TJ",
 		"countrycode": "762",
-		"image": "/flag_images/tj.png",
+		"image": "../../flag_images/tj.png",
 		"maps": ["world_mill"],
 		"capital": "Dushanbe"
 	}, {
 		"name": "Tanzania, United Republic of",
 		"iso2": "TZ",
 		"countrycode": "834",
-		"image": "/flag_images/tz.png",
+		"image": "../../flag_images/tz.png",
 		"maps": ["world_mill"],
 		"capital": "Dodoma"
 	}, {
 		"name": "Thailand",
 		"iso2": "TH",
 		"countrycode": "764",
-		"image": "/flag_images/th.png",
+		"image": "../../flag_images/th.png",
 		"maps": ["world_mill"],
 		"capital": "Bangkok"
 	}, {
 		"name": "Timor-Leste",
 		"iso2": "TL",
 		"countrycode": "626",
-		"image": "/flag_images/tl.png",
+		"image": "../../flag_images/tl.png",
 		"maps": ["world_mill"],
 		"capital": "Dili"
 	}, {
 		"name": "Togo",
 		"iso2": "TG",
 		"countrycode": "768",
-		"image": "/flag_images/tg.png",
+		"image": "../../flag_images/tg.png",
 		"maps": ["world_mill"],
 		"capital": "Lome"
 	}, {
 		"name": "Tokelau",
 		"iso2": "TK",
 		"countrycode": "772",
-		"image": "/flag_images/tk.png",
+		"image": "../../flag_images/tk.png",
 		"maps": [],
 		"capital": ""
 	}, {
 		"name": "Tonga",
 		"iso2": "TO",
 		"countrycode": "776",
-		"image": "/flag_images/to.png",
+		"image": "../../flag_images/to.png",
 		"maps": [],
 		"capital": "Nuku\u0027alofa"
 	}, {
 		"name": "Trinidad and Tobago",
 		"iso2": "TT",
 		"countrycode": "780",
-		"image": "/flag_images/tt.png",
+		"image": "../../flag_images/tt.png",
 		"maps": ["world_mill"],
 		"capital": "Port of Spain"
 	}, {
 		"name": "Tunisia",
 		"iso2": "TN",
 		"countrycode": "788",
-		"image": "/flag_images/tn.png",
+		"image": "../../flag_images/tn.png",
 		"maps": ["world_mill"],
 		"capital": "Tunis"
 	}, {
 		"name": "Turkey",
 		"iso2": "TR",
 		"countrycode": "792",
-		"image": "/flag_images/tr.png",
+		"image": "../../flag_images/tr.png",
 		"maps": ["world_mill"],
 		"capital": "Ankara"
 	}, {
 		"name": "Turkmenistan",
 		"iso2": "TM",
 		"countrycode": "795",
-		"image": "/flag_images/tm.png",
+		"image": "../../flag_images/tm.png",
 		"maps": ["world_mill"],
 		"capital": "Ashgabat"
 	}, {
 		"name": "Turks and Caicos Islands",
 		"iso2": "TC",
 		"countrycode": "796",
-		"image": "/flag_images/tc.png",
+		"image": "../../flag_images/tc.png",
 		"maps": [],
 		"capital": "Cockburn Town"
 	}, {
 		"name": "Tuvalu",
 		"iso2": "TV",
 		"countrycode": "798",
-		"image": "/flag_images/tv.png",
+		"image": "../../flag_images/tv.png",
 		"maps": [],
 		"capital": "Funafuti"
 	}, {
 		"name": "Uganda",
 		"iso2": "UG",
 		"countrycode": "800",
-		"image": "/flag_images/ug.png",
+		"image": "../../flag_images/ug.png",
 		"maps": ["world_mill"],
 		"capital": "Kampala"
 	}, {
 		"name": "Ukraine",
 		"iso2": "UA",
 		"countrycode": "804",
-		"image": "/flag_images/ua.png",
+		"image": "../../flag_images/ua.png",
 		"maps": ["world_mill", "europe_mill"],
 		"capital": "Kiev"
 	}, {
 		"name": "United Arab Emirates",
 		"iso2": "AE",
 		"countrycode": "784",
-		"image": "/flag_images/ae.png",
+		"image": "../../flag_images/ae.png",
 		"maps": ["world_mill"],
 		"capital": "Abu Dhabi"
 	}, {
 		"name": "United Kingdom of Great Britain and Northern Ireland",
 		"iso2": "GB",
 		"countrycode": "826",
-		"image": "/flag_images/gb.png",
+		"image": "../../flag_images/gb.png",
 		"maps": ["world_mill", "europe_mill"],
 		"capital": "London"
 	}, {
 		"name": "United States of America",
 		"iso2": "US",
 		"countrycode": "840",
-		"image": "/flag_images/us.png",
+		"image": "../../flag_images/us.png",
 		"maps": ["world_mill"],
 		"capital": "Washington"
 	}, {
 		"name": "Uruguay",
 		"iso2": "UY",
 		"countrycode": "858",
-		"image": "/flag_images/uy.png",
+		"image": "../../flag_images/uy.png",
 		"maps": ["world_mill"],
 		"capital": "Montevideo"
 	}, {
 		"name": "Uzbekistan",
 		"iso2": "UZ",
 		"countrycode": "860",
-		"image": "/flag_images/uz.png",
+		"image": "../../flag_images/uz.png",
 		"maps": ["world_mill"],
 		"capital": "Tashkent"
 	}, {
 		"name": "Vanuatu",
 		"iso2": "VU",
 		"countrycode": "548",
-		"image": "/flag_images/vu.png",
+		"image": "../../flag_images/vu.png",
 		"maps": ["world_mill", "oceania_mill"],
 		"capital": "Port Vila"
 	}, {
 		"name": "Venezuela (Bolivarian Republic of)",
 		"iso2": "VE",
 		"countrycode": "862",
-		"image": "/flag_images/ve.png",
+		"image": "../../flag_images/ve.png",
 		"maps": ["world_mill"],
 		"capital": "Caracas"
 	}, {
 		"name": "Viet Nam",
 		"iso2": "VN",
 		"countrycode": "704",
-		"image": "/flag_images/vn.png",
+		"image": "../../flag_images/vn.png",
 		"maps": ["world_mill"],
 		"capital": "Hanoi"
 	}, {
 		"name": "Virgin Islands (British)",
 		"iso2": "VG",
 		"countrycode": "092",
-		"image": "/flag_images/vg.png",
+		"image": "../../flag_images/vg.png",
 		"maps": [],
 		"capital": "Road Town"
 	}, {
 		"name": "Virgin Islands (U.S.)",
 		"iso2": "VI",
 		"countrycode": "850",
-		"image": "/flag_images/vi.png",
+		"image": "../../flag_images/vi.png",
 		"maps": [],
 		"capital": "Charlotte Amalie"
 	}, {
 		"name": "Western Sahara",
 		"iso2": "EH",
 		"countrycode": "732",
-		"image": "/flag_images/eh.png",
+		"image": "../../flag_images/eh.png",
 		"maps": ["world_mill"],
 		"capital": "El-Aaiun"
 	}, {
 		"name": "Yemen",
 		"iso2": "YE",
 		"countrycode": "887",
-		"image": "/flag_images/ye.png",
+		"image": "../../flag_images/ye.png",
 		"maps": ["world_mill"],
 		"capital": "Sanaa"
 	}, {
 		"name": "Zambia",
 		"iso2": "ZM",
 		"countrycode": "894",
-		"image": "/flag_images/zm.png",
+		"image": "../../flag_images/zm.png",
 		"maps": ["world_mill"],
 		"capital": "Lusaka"
 	}, {
 		"name": "Zimbabwe",
 		"iso2": "ZW",
 		"countrycode": "716",
-		"image": "/flag_images/zw.png",
+		"image": "../../flag_images/zw.png",
 		"maps": ["world_mill"],
 		"capital": "Harare"
 	}, {
 		"name": "Somaliland",
 		"iso2": "XS",
 		"countrycode": "",
-		"image": "/flag_images/xs.png",
+		"image": "../../flag_images/xs.png",
 		"maps": ["world_mill"],
 		"capital": "Hargeisa"
 	}, {
 		"name": "Kosovo",
 		"iso2": "XK",
 		"countrycode": "",
-		"image": "/flag_images/xk.png",
+		"image": "../../flag_images/xk.png",
 		"maps": ["world_mill", "europe_mill"],
 		"capital": "Pristina"
 	}, {
 		"name": "Northern Cyprus (Turkish Republic of)",
 		"iso2": "XC",
 		"countrycode": "",
-		"image": "/flag_images/xc.png",
+		"image": "../../flag_images/xc.png",
 		"maps": ["world_mill"],
 		"capital": "Lefko\u015Fa"
 	}]
